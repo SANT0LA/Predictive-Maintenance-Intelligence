@@ -1,0 +1,2801 @@
+Product ID,feature,shap_value
+L51823,Air temperature K,3.2537751
+L51642,Air temperature K,3.2189696
+L51909,Air temperature K,3.3637402
+L51563,Air temperature K,0.16548505
+L54689,Air temperature K,-1.6389568
+L51822,Air temperature K,3.0874867
+L51597,Air temperature K,3.3063233
+L51601,Air temperature K,5.1044784
+L51034,Air temperature K,-0.5426756
+H33894,Air temperature K,5.951141
+L54773,Air temperature K,-1.3796573
+L48515,Air temperature K,-2.1240597
+L51681,Air temperature K,3.6319869
+M20254,Air temperature K,0.7164498
+L51628,Air temperature K,3.3104537
+L48676,Air temperature K,-1.289276
+L51123,Air temperature K,-0.25076115
+H35323,Air temperature K,-2.1866024
+L56839,Air temperature K,-2.3902736
+L51621,Air temperature K,3.726355
+L51675,Air temperature K,4.8315687
+L51615,Air temperature K,3.9007084
+L51716,Air temperature K,3.8411274
+M19269,Air temperature K,3.9151363
+L48341,Air temperature K,-1.581778
+L51655,Air temperature K,6.1767344
+L49941,Air temperature K,-2.1485257
+L49778,Air temperature K,-2.0869114
+M15984,Air temperature K,-1.6239529
+L51580,Air temperature K,3.9069836
+L57154,Air temperature K,-1.9238129
+M15876,Air temperature K,-1.9204495
+L52100,Air temperature K,2.5532053
+L47429,Air temperature K,-0.29133764
+L47249,Air temperature K,-0.980469
+L47428,Air temperature K,-1.4434965
+L51690,Air temperature K,3.3954945
+L51251,Air temperature K,-1.641172
+L56673,Air temperature K,-1.184614
+M23167,Air temperature K,-2.0334864
+L47340,Air temperature K,-1.7685392
+L53435,Air temperature K,-1.4600986
+M19393,Air temperature K,3.542838
+L53677,Air temperature K,-1.8362889
+M19279,Air temperature K,2.2847862
+L51585,Air temperature K,3.5206726
+M19416,Air temperature K,7.0458536
+L56844,Air temperature K,-2.6258593
+L51738,Air temperature K,5.6923013
+L55578,Air temperature K,0.028469581
+L51831,Air temperature K,6.874355
+L55617,Air temperature K,-2.3148174
+L51724,Air temperature K,2.6660283
+L51750,Air temperature K,5.5994525
+L48775,Air temperature K,-1.588883
+M19249,Air temperature K,3.6489289
+M18795,Air temperature K,1.9567577
+M19387,Air temperature K,3.989717
+L51550,Air temperature K,0.17969479
+L52399,Air temperature K,2.114911
+L51434,Air temperature K,2.538174
+L51928,Air temperature K,6.5133305
+L51780,Air temperature K,6.46299
+M19478,Air temperature K,7.2036133
+L48106,Air temperature K,-1.8231293
+M19587,Air temperature K,4.5452485
+L51841,Air temperature K,6.894901
+M19287,Air temperature K,3.7958024
+L51939,Air temperature K,6.5223246
+L51450,Air temperature K,5.241875
+L52241,Air temperature K,0.89687407
+L55372,Air temperature K,-1.3837173
+L53258,Air temperature K,-2.1381617
+L53705,Air temperature K,-1.3624088
+M19529,Air temperature K,6.4513845
+M19143,Air temperature K,0.8983133
+L48571,Air temperature K,-1.6175487
+L56594,Air temperature K,-1.4440571
+L47783,Air temperature K,-2.4915056
+L54347,Air temperature K,-2.4321654
+L56264,Air temperature K,-1.7751734
+H37528,Air temperature K,-2.154578
+M15119,Air temperature K,-1.2097043
+L51586,Air temperature K,3.4042873
+L56355,Air temperature K,-1.2669716
+M19857,Air temperature K,1.7285408
+L52332,Air temperature K,-1.2744939
+L54266,Air temperature K,-3.52161
+M19704,Air temperature K,7.1367025
+L51759,Air temperature K,6.0735703
+M19461,Air temperature K,6.7015786
+H34312,Air temperature K,2.3986418
+L51362,Air temperature K,3.054011
+L51800,Air temperature K,6.778353
+L51791,Air temperature K,5.861974
+L52670,Air temperature K,0.15780503
+L51260,Air temperature K,1.6153258
+M19221,Air temperature K,3.7374694
+L51801,Air temperature K,6.7058644
+M23105,Air temperature K,-3.0278008
+M19202,Air temperature K,0.11782023
+L54263,Air temperature K,-1.6856586
+L49624,Air temperature K,-1.9830956
+L51898,Air temperature K,4.606574
+L51776,Air temperature K,6.549333
+L49305,Air temperature K,-1.9464096
+L49511,Air temperature K,-0.83313084
+M19622,Air temperature K,2.1715817
+L47926,Air temperature K,-1.7364591
+M19033,Air temperature K,4.337061
+L51935,Air temperature K,7.076064
+L48969,Air temperature K,-2.183536
+L51919,Air temperature K,6.69087
+H32414,Air temperature K,-2.380675
+L47507,Air temperature K,-2.200739
+H32274,Air temperature K,-1.8229845
+L51261,Air temperature K,1.7775395
+M19597,Air temperature K,6.454171
+M19309,Air temperature K,3.6123195
+L47643,Air temperature K,-0.12632315
+L53428,Air temperature K,-1.4610673
+M20194,Air temperature K,1.2241249
+M23442,Air temperature K,-2.7807481
+M19525,Air temperature K,7.740569
+H34175,Air temperature K,7.4389462
+L48342,Air temperature K,0.026005693
+H33979,Air temperature K,6.5040092
+L51228,Air temperature K,-0.9977257
+M23706,Air temperature K,-1.5797379
+L47348,Air temperature K,-0.6959964
+M19013,Air temperature K,2.3254993
+L51903,Air temperature K,5.1329656
+M20475,Air temperature K,2.350886
+L55106,Air temperature K,-1.7071476
+L54936,Air temperature K,-1.6803706
+L57002,Air temperature K,-1.917856
+L49674,Air temperature K,-2.8977773
+M19251,Air temperature K,4.000466
+L48988,Air temperature K,-0.40652835
+L51365,Air temperature K,3.8935585
+M19030,Air temperature K,4.2864695
+L53358,Air temperature K,-1.4351383
+L51427,Air temperature K,3.8390367
+H33769,Air temperature K,2.039391
+L52116,Air temperature K,2.0306535
+L51213,Air temperature K,-0.7437478
+L52016,Air temperature K,5.665428
+L56834,Air temperature K,-2.8462155
+L55375,Air temperature K,-1.9106753
+L51344,Air temperature K,3.876397
+L54857,Air temperature K,-1.7945135
+L57010,Air temperature K,-1.7064593
+L49479,Air temperature K,-1.2963798
+L50940,Air temperature K,3.4343832
+H33243,Air temperature K,3.9166317
+L49885,Air temperature K,-3.333719
+M21659,Air temperature K,-1.2270848
+L56847,Air temperature K,-1.982978
+L50708,Air temperature K,-1.1648718
+H34813,Air temperature K,0.33089516
+M18674,Air temperature K,3.266504
+L51364,Air temperature K,3.4661665
+L51482,Air temperature K,-1.6701452
+L51299,Air temperature K,2.087524
+L48770,Air temperature K,-1.0017312
+L50084,Air temperature K,-3.9998026
+L51508,Air temperature K,-0.5573025
+M23874,Air temperature K,-1.9228743
+L51310,Air temperature K,1.4110754
+L51359,Air temperature K,3.1947253
+M19011,Air temperature K,1.3746009
+L51276,Air temperature K,0.84512466
+L52042,Air temperature K,3.9166546
+M23058,Air temperature K,-2.6412146
+M20261,Air temperature K,1.3696129
+L54716,Air temperature K,-1.194388
+L50446,Air temperature K,-1.755817
+L50864,Air temperature K,-0.81936353
+L51948,Air temperature K,6.457922
+L48265,Air temperature K,-0.34685832
+H33492,Air temperature K,3.2572615
+L51411,Air temperature K,3.3209772
+L47230,Air temperature K,-0.96326554
+L52164,Air temperature K,1.5368948
+L48599,Air temperature K,-2.501165
+L51911,Air temperature K,3.7982247
+L56196,Air temperature K,-0.47013053
+M20858,Air temperature K,-1.0876004
+H33665,Air temperature K,3.0991876
+L48763,Air temperature K,-1.743478
+L52914,Air temperature K,-0.08311121
+L51429,Air temperature K,2.5575192
+L54939,Air temperature K,-1.4684416
+L51267,Air temperature K,0.59000844
+L51320,Air temperature K,1.7210535
+M22424,Air temperature K,-1.154846
+L47422,Air temperature K,-1.9036349
+L52020,Air temperature K,5.270187
+L48514,Air temperature K,-1.990221
+L52011,Air temperature K,5.9909515
+L51465,Air temperature K,1.3470904
+M18980,Air temperature K,2.3970942
+L50530,Air temperature K,-1.0115713
+L51882,Air temperature K,4.5012283
+L51462,Air temperature K,0.39099884
+L51210,Air temperature K,-2.2264664
+L50205,Air temperature K,-2.8369856
+L51950,Air temperature K,6.1648035
+L52571,Air temperature K,-0.13471362
+M18884,Air temperature K,0.52965045
+L48324,Air temperature K,-1.491608
+L47765,Air temperature K,-0.20943357
+M19580,Air temperature K,5.7128043
+L50668,Air temperature K,-1.7522771
+L50973,Air temperature K,3.1675327
+L51825,Air temperature K,-1.4558978
+L48854,Air temperature K,-0.92687005
+M16184,Air temperature K,-2.6969259
+L48705,Air temperature K,-0.74834275
+M21538,Air temperature K,-1.1334913
+M15067,Air temperature K,-0.9606549
+L51503,Air temperature K,1.336077
+H30623,Air temperature K,-1.8120759
+L51473,Air temperature K,-0.33541387
+L50199,Air temperature K,-2.147154
+L55784,Air temperature K,-2.7121007
+L51318,Air temperature K,1.5306145
+L51298,Air temperature K,-1.0253037
+L50776,Air temperature K,-0.33250743
+L51337,Air temperature K,2.1455421
+M19238,Air temperature K,-1.5544236
+L51459,Air temperature K,1.482553
+M18727,Air temperature K,2.4704218
+M18317,Air temperature K,-0.6565908
+L50549,Air temperature K,-1.322522
+H39353,Air temperature K,-1.9203727
+L53339,Air temperature K,-0.73770237
+L49513,Air temperature K,-0.81755906
+H32875,Air temperature K,-0.33550158
+L47622,Air temperature K,-1.223465
+L50967,Air temperature K,3.2464733
+L50989,Air temperature K,2.576758
+H34462,Air temperature K,1.1455113
+L54849,Air temperature K,-1.6786308
+L53682,Air temperature K,-3.6066003
+L54112,Air temperature K,-1.8092104
+L54170,Air temperature K,-3.1197648
+M18981,Air temperature K,3.1599362
+M19492,Air temperature K,5.075869
+L47341,Air temperature K,-0.45354062
+L56843,Air temperature K,-1.317776
+M21400,Air temperature K,-1.0477126
+M18666,Air temperature K,3.9705675
+L54261,Air temperature K,-4.070477
+L53204,Air temperature K,-2.0587327
+H35932,Air temperature K,-1.6239117
+L49761,Air temperature K,-2.5323846
+L51335,Air temperature K,1.2300582
+L48859,Air temperature K,-0.62247586
+L54167,Air temperature K,-3.6123495
+L51994,Air temperature K,1.0578676
+M18654,Air temperature K,3.6348522
+L47560,Air temperature K,-0.63326997
+L51046,Air temperature K,4.3437176
+M19118,Air temperature K,5.665633
+L49255,Air temperature K,-0.83145934
+L49682,Air temperature K,-0.58828986
+L51908,Air temperature K,0.8849644
+L48347,Air temperature K,-1.4144243
+L55006,Air temperature K,-2.2746415
+L54104,Air temperature K,-1.2421944
+L54460,Air temperature K,-2.309643
+L53345,Air temperature K,-2.3090494
+H30814,Air temperature K,-4.6895185
+L51396,Air temperature K,-1.390595
+L51405,Air temperature K,2.546795
+L48186,Air temperature K,-0.6033174
+M17739,Air temperature K,-3.887625
+L51506,Air temperature K,0.7143391
+M17026,Air temperature K,0.17286596
+L48927,Air temperature K,-0.8191181
+L56793,Air temperature K,-3.94116
+L51212,Air temperature K,-1.4576213
+L51910,Air temperature K,0.0857632
+L53853,Air temperature K,-0.899572
+L51297,Air temperature K,-0.5688891
+M19113,Air temperature K,5.3830814
+M20385,Air temperature K,2.112315
+M22451,Air temperature K,-2.5867867
+L54749,Air temperature K,-1.5804799
+L52773,Air temperature K,2.2583218
+L48275,Air temperature K,0.06626482
+M17286,Air temperature K,-3.0435417
+L47255,Air temperature K,-2.8787382
+L52450,Air temperature K,1.6342665
+L55776,Air temperature K,-3.5948126
+H33006,Air temperature K,-1.7171205
+L50676,Air temperature K,-1.988768
+M18976,Air temperature K,-0.9749383
+L55542,Air temperature K,-4.2851458
+H37262,Air temperature K,-1.2923267
+M22857,Air temperature K,-0.95608675
+L52886,Air temperature K,-0.40938586
+L51250,Air temperature K,-0.6356947
+L55406,Air temperature K,-2.8899248
+L49413,Air temperature K,-1.0772829
+L51371,Air temperature K,-0.5234168
+L56944,Air temperature K,-2.0591283
+L50781,Air temperature K,-0.69660985
+M19213,Air temperature K,-0.07784136
+M16276,Air temperature K,-2.4829683
+L49211,Air temperature K,-4.2071114
+M20856,Air temperature K,-1.8266398
+M18387,Air temperature K,-1.0124757
+L53307,Air temperature K,-3.1529963
+L52156,Air temperature K,2.943118
+L51487,Air temperature K,-0.13747883
+M20859,Air temperature K,-0.2807782
+L51813,Air temperature K,1.1548309
+L50038,Air temperature K,-1.5288336
+M24356,Air temperature K,-3.320276
+M15740,Air temperature K,-1.6342205
+L51560,Air temperature K,-2.3534079
+L52380,Air temperature K,1.5494477
+L52085,Air temperature K,4.5331187
+M17708,Air temperature K,-1.9350104
+L51534,Air temperature K,-0.717609
+M18453,Air temperature K,-1.8021946
+L54717,Air temperature K,-2.3589747
+L48964,Air temperature K,-0.5354346
+L52999,Air temperature K,-1.7234576
+L47436,Air temperature K,-3.5933511
+L49013,Air temperature K,-2.4308782
+M22863,Air temperature K,-2.4614034
+L55208,Air temperature K,-1.6049654
+M16367,Air temperature K,-2.6759014
+H30537,Air temperature K,-1.1949449
+M18247,Air temperature K,-1.0194165
+L49514,Air temperature K,-0.75382704
+L55751,Air temperature K,-0.80977905
+L56624,Air temperature K,-0.41346583
+L53119,Air temperature K,-2.5484347
+L51124,Air temperature K,0.18037766
+L50179,Air temperature K,-2.4623199
+L52487,Air temperature K,0.23852679
+L52013,Air temperature K,5.5601974
+L55204,Air temperature K,-1.7998018
+M18716,Air temperature K,-0.68306565
+M16540,Air temperature K,-1.0539498
+L52031,Air temperature K,5.9362783
+L55190,Air temperature K,-2.9662528
+H38909,Air temperature K,-2.530593
+M19080,Air temperature K,-1.1680949
+L50536,Air temperature K,-0.90063494
+M22547,Air temperature K,-0.10668697
+M19063,Air temperature K,1.4832982
+L54191,Air temperature K,-1.9091132
+L52580,Air temperature K,0.5190959
+L48721,Air temperature K,-0.71553916
+L51826,Air temperature K,-0.24210584
+M22881,Air temperature K,-1.0492458
+L51391,Air temperature K,1.9930648
+M21996,Air temperature K,-4.234685
+L51203,Air temperature K,-0.07894093
+H32906,Air temperature K,-1.9323609
+L51824,Air temperature K,-0.2766086
+L51023,Air temperature K,0.59544134
+L48025,Air temperature K,-1.3882655
+L51811,Air temperature K,1.7229501
+L47585,Air temperature K,-2.9483805
+L51290,Air temperature K,-0.4330213
+M16616,Air temperature K,-3.1278615
+M21318,Air temperature K,-4.4942145
+L52668,Air temperature K,1.2120035
+H35402,Air temperature K,-3.1038065
+L56345,Air temperature K,-4.445566
+L49195,Air temperature K,-2.3452606
+L54373,Air temperature K,-3.4622967
+M23329,Air temperature K,-3.8591995
+L53501,Air temperature K,-3.5230815
+L48430,Air temperature K,-0.60268253
+L53852,Air temperature K,-1.1279371
+M18096,Air temperature K,-4.3378816
+L53333,Air temperature K,-1.2040442
+L48598,Air temperature K,-3.4215121
+M21785,Air temperature K,-2.4688041
+L52242,Air temperature K,0.75842315
+L47941,Air temperature K,-2.7679355
+M22284,Air temperature K,-0.7314283
+M22143,Air temperature K,-2.7273295
+M20088,Air temperature K,3.109388
+M21478,Air temperature K,-0.5541074
+M17018,Air temperature K,-2.2951672
+M19509,Air temperature K,2.4208453
+L48027,Air temperature K,-0.78876215
+L52119,Air temperature K,2.9962642
+L51293,Air temperature K,-1.5156169
+M19066,Air temperature K,0.535306
+L50748,Air temperature K,-0.68928343
+H33443,Air temperature K,-1.8013961
+L51823,Process temperature K,0.43811402
+L51642,Process temperature K,0.50885224
+L51909,Process temperature K,0.14851908
+L51563,Process temperature K,0.82017076
+L54689,Process temperature K,0.053920396
+L51822,Process temperature K,0.63437754
+L51597,Process temperature K,2.2078712
+L51601,Process temperature K,3.0832932
+L51034,Process temperature K,-0.56391823
+H33894,Process temperature K,3.432385
+L54773,Process temperature K,0.066736
+L48515,Process temperature K,-0.094220765
+L51681,Process temperature K,4.0930676
+M20254,Process temperature K,-2.1292567
+L51628,Process temperature K,3.46989
+L48676,Process temperature K,0.7465961
+L51123,Process temperature K,-0.9236771
+H35323,Process temperature K,-0.088012956
+L56839,Process temperature K,0.6453435
+L51621,Process temperature K,3.8857405
+L51675,Process temperature K,3.462592
+L51615,Process temperature K,3.9910111
+L51716,Process temperature K,3.8850021
+M19269,Process temperature K,4.3287144
+L48341,Process temperature K,0.86831856
+L51655,Process temperature K,2.6266
+L49941,Process temperature K,-0.8781516
+L49778,Process temperature K,0.9599797
+M15984,Process temperature K,1.1981972
+L51580,Process temperature K,4.0633655
+L57154,Process temperature K,-0.08049616
+M15876,Process temperature K,1.5218201
+L52100,Process temperature K,-2.841148
+L47429,Process temperature K,-0.073581025
+L47249,Process temperature K,-0.39437833
+L47428,Process temperature K,-0.11351834
+L51690,Process temperature K,3.1496294
+L51251,Process temperature K,-1.470047
+L56673,Process temperature K,0.65163845
+M23167,Process temperature K,0.07647158
+L47340,Process temperature K,-0.15123957
+L53435,Process temperature K,-0.44560304
+M19393,Process temperature K,3.4274633
+L53677,Process temperature K,1.2874066
+M19279,Process temperature K,1.5510098
+L51585,Process temperature K,4.1432104
+M19416,Process temperature K,2.052864
+L56844,Process temperature K,0.013972774
+L51738,Process temperature K,1.8666914
+L55578,Process temperature K,1.525373
+L51831,Process temperature K,0.34604156
+L55617,Process temperature K,0.7863822
+L51724,Process temperature K,3.1964636
+L51750,Process temperature K,1.4692466
+L48775,Process temperature K,-0.1737293
+M19249,Process temperature K,2.958608
+M18795,Process temperature K,-0.02514651
+M19387,Process temperature K,2.5837162
+L51550,Process temperature K,3.0996695
+L52399,Process temperature K,-3.1335452
+L51434,Process temperature K,0.1036946
+L51928,Process temperature K,0.102678746
+L51780,Process temperature K,1.0206034
+M19478,Process temperature K,0.60801256
+L48106,Process temperature K,0.39727795
+M19587,Process temperature K,0.0951569
+L51841,Process temperature K,0.33465326
+M19287,Process temperature K,3.3700318
+L51939,Process temperature K,-0.42842674
+L51450,Process temperature K,1.9980747
+L52241,Process temperature K,-3.219423
+L55372,Process temperature K,0.060151458
+L53258,Process temperature K,-0.23484933
+L53705,Process temperature K,1.0596247
+M19529,Process temperature K,-0.22558387
+M19143,Process temperature K,2.486811
+L48571,Process temperature K,0.2353949
+L56594,Process temperature K,0.6971569
+L47783,Process temperature K,1.248373
+L54347,Process temperature K,0.10439687
+L56264,Process temperature K,0.3627051
+H37528,Process temperature K,-0.45192012
+M15119,Process temperature K,0.2944138
+L51586,Process temperature K,4.2181253
+L56355,Process temperature K,-0.43308938
+M19857,Process temperature K,-2.4688816
+L52332,Process temperature K,-2.1175592
+L54266,Process temperature K,-0.1198245
+M19704,Process temperature K,-0.28042725
+L51759,Process temperature K,0.40411332
+M19461,Process temperature K,0.36388075
+H34312,Process temperature K,-0.5394307
+L51362,Process temperature K,2.0926495
+L51800,Process temperature K,0.67282856
+L51791,Process temperature K,0.5003529
+L52670,Process temperature K,-3.6078222
+L51260,Process temperature K,3.0386019
+M19221,Process temperature K,2.9786296
+L51801,Process temperature K,0.72224474
+M23105,Process temperature K,0.06256279
+M19202,Process temperature K,2.0612178
+L54263,Process temperature K,-0.44852296
+L49624,Process temperature K,1.1512806
+L51898,Process temperature K,0.5590008
+L51776,Process temperature K,0.5723766
+L49305,Process temperature K,0.81298816
+L49511,Process temperature K,0.30337903
+M19622,Process temperature K,-0.99428886
+L47926,Process temperature K,-0.12047656
+M19033,Process temperature K,1.8958567
+L51935,Process temperature K,-0.29281875
+L48969,Process temperature K,0.9888106
+L51919,Process temperature K,0.21871981
+H32414,Process temperature K,1.0131423
+L47507,Process temperature K,0.35659224
+H32274,Process temperature K,-1.5638158
+L51261,Process temperature K,3.349961
+M19597,Process temperature K,0.009150533
+M19309,Process temperature K,3.3277442
+L47643,Process temperature K,-0.12976488
+L53428,Process temperature K,-0.41611686
+M20194,Process temperature K,-2.6224375
+M23442,Process temperature K,-0.267274
+M19525,Process temperature K,-0.1658954
+H34175,Process temperature K,-0.91170776
+L48342,Process temperature K,0.06600082
+H33979,Process temperature K,1.3755226
+L51228,Process temperature K,0.12927434
+M23706,Process temperature K,0.9519738
+L47348,Process temperature K,0.7649112
+M19013,Process temperature K,3.96212
+L51903,Process temperature K,-0.06712913
+M20475,Process temperature K,-2.5884826
+L55106,Process temperature K,-0.34349135
+L54936,Process temperature K,0.23667972
+L57002,Process temperature K,-0.55569816
+L49674,Process temperature K,0.47704363
+M19251,Process temperature K,3.5437407
+L48988,Process temperature K,-0.38869342
+L51365,Process temperature K,1.9508739
+M19030,Process temperature K,2.0405302
+L53358,Process temperature K,-0.2985684
+L51427,Process temperature K,0.20702945
+H33769,Process temperature K,4.034788
+L52116,Process temperature K,-2.6784513
+L51213,Process temperature K,-0.080033965
+L52016,Process temperature K,-0.54847294
+L56834,Process temperature K,-0.372953
+L55375,Process temperature K,-0.013823591
+L51344,Process temperature K,1.9624145
+L54857,Process temperature K,0.16825122
+L57010,Process temperature K,-0.50603324
+L49479,Process temperature K,1.1534213
+L50940,Process temperature K,2.4768808
+H33243,Process temperature K,2.2047021
+L49885,Process temperature K,0.02024129
+M21659,Process temperature K,0.7606149
+L56847,Process temperature K,0.14449418
+L50708,Process temperature K,0.8175082
+H34813,Process temperature K,-0.469252
+M18674,Process temperature K,1.2985599
+L51364,Process temperature K,1.999564
+L51482,Process temperature K,-0.15821992
+L51299,Process temperature K,1.1495978
+L48770,Process temperature K,-0.8815627
+L50084,Process temperature K,-1.8567243
+L51508,Process temperature K,2.508708
+M23874,Process temperature K,-0.23086831
+L51310,Process temperature K,2.9852645
+L51359,Process temperature K,2.350763
+M19011,Process temperature K,2.6413019
+L51276,Process temperature K,2.4097538
+L52042,Process temperature K,-3.8726187
+M23058,Process temperature K,-0.6776458
+M20261,Process temperature K,-0.8717605
+L54716,Process temperature K,0.74611294
+L50446,Process temperature K,0.95679176
+L50864,Process temperature K,-0.87278783
+L51948,Process temperature K,-1.5247859
+L48265,Process temperature K,-0.06270774
+H33492,Process temperature K,1.0241554
+L51411,Process temperature K,1.5423707
+L47230,Process temperature K,-0.8968314
+L52164,Process temperature K,-3.1341095
+L48599,Process temperature K,0.96496016
+L51911,Process temperature K,0.019146528
+L56196,Process temperature K,-0.68607026
+M20858,Process temperature K,-1.0160561
+H33665,Process temperature K,1.7891433
+L48763,Process temperature K,0.062365875
+L52914,Process temperature K,-0.5546608
+L51429,Process temperature K,1.2963047
+L54939,Process temperature K,0.076467596
+L51267,Process temperature K,2.2615068
+L51320,Process temperature K,2.7699232
+M22424,Process temperature K,-0.30114344
+L47422,Process temperature K,-1.3153142
+L52020,Process temperature K,-0.86649024
+L48514,Process temperature K,0.07264103
+L52011,Process temperature K,-1.992395
+L51465,Process temperature K,3.0980766
+M18980,Process temperature K,1.0474818
+L50530,Process temperature K,-0.11304116
+L51882,Process temperature K,0.029294154
+L51462,Process temperature K,2.909065
+L51210,Process temperature K,-0.09775299
+L50205,Process temperature K,0.022830635
+L51950,Process temperature K,-0.9513163
+L52571,Process temperature K,-2.0062625
+M18884,Process temperature K,-0.8323841
+L48324,Process temperature K,0.425367
+L47765,Process temperature K,0.34864253
+M19580,Process temperature K,-0.19291615
+L50668,Process temperature K,-0.66663086
+L50973,Process temperature K,1.9006898
+L51825,Process temperature K,0.55758506
+L48854,Process temperature K,0.23606895
+M16184,Process temperature K,-0.31587088
+L48705,Process temperature K,-0.8699924
+M21538,Process temperature K,-0.48503983
+M15067,Process temperature K,1.4871761
+L51503,Process temperature K,3.2106926
+H30623,Process temperature K,-2.3022122
+L51473,Process temperature K,-0.75490224
+L50199,Process temperature K,0.8449376
+L55784,Process temperature K,-0.76426
+L51318,Process temperature K,3.0484757
+L51298,Process temperature K,-0.59918845
+L50776,Process temperature K,-0.18929455
+L51337,Process temperature K,1.3149903
+M19238,Process temperature K,0.49878806
+L51459,Process temperature K,2.9225943
+M18727,Process temperature K,0.50094527
+M18317,Process temperature K,0.6065293
+L50549,Process temperature K,1.0181725
+H39353,Process temperature K,-2.243805
+L53339,Process temperature K,0.44897443
+L49513,Process temperature K,0.6276015
+H32875,Process temperature K,2.395922
+L47622,Process temperature K,1.8853152
+L50967,Process temperature K,1.7524971
+L50989,Process temperature K,0.94434726
+H34462,Process temperature K,-2.791119
+L54849,Process temperature K,0.21685828
+L53682,Process temperature K,-0.9234286
+L54112,Process temperature K,-0.72392833
+L54170,Process temperature K,0.5199995
+M18981,Process temperature K,1.127541
+M19492,Process temperature K,0.39459252
+L47341,Process temperature K,-0.3864254
+L56843,Process temperature K,-0.5099993
+M21400,Process temperature K,-0.20641775
+M18666,Process temperature K,1.6572245
+L54261,Process temperature K,0.13852686
+L53204,Process temperature K,-0.2298203
+H35932,Process temperature K,0.4215823
+L49761,Process temperature K,-0.27289099
+L51335,Process temperature K,1.6701628
+L48859,Process temperature K,0.6775724
+L54167,Process temperature K,0.3049502
+L51994,Process temperature K,0.044095945
+M18654,Process temperature K,1.224971
+L47560,Process temperature K,-1.136494
+L51046,Process temperature K,-0.592022
+M19118,Process temperature K,-0.07931799
+L49255,Process temperature K,-0.68875355
+L49682,Process temperature K,-0.641336
+L51908,Process temperature K,-0.83839333
+L48347,Process temperature K,-0.36871773
+L55006,Process temperature K,-0.36438033
+L54104,Process temperature K,0.33126873
+L54460,Process temperature K,0.6248621
+L53345,Process temperature K,-0.013221744
+H30814,Process temperature K,-0.5315033
+L51396,Process temperature K,-0.86273223
+L51405,Process temperature K,1.0195054
+L48186,Process temperature K,-0.043413512
+M17739,Process temperature K,-0.18756588
+L51506,Process temperature K,2.7592707
+M17026,Process temperature K,-0.7865481
+L48927,Process temperature K,-0.78164685
+L56793,Process temperature K,-0.32584968
+L51212,Process temperature K,-0.1456647
+L51910,Process temperature K,-0.7015802
+L53853,Process temperature K,0.089529365
+L51297,Process temperature K,0.6931212
+M19113,Process temperature K,0.51329494
+M20385,Process temperature K,-4.3460875
+M22451,Process temperature K,-0.6155659
+L54749,Process temperature K,0.10857246
+L52773,Process temperature K,-2.949984
+L48275,Process temperature K,0.74843925
+M17286,Process temperature K,1.0538266
+L47255,Process temperature K,0.84777594
+L52450,Process temperature K,-5.191347
+L55776,Process temperature K,-1.5752985
+H33006,Process temperature K,1.1424527
+L50676,Process temperature K,-1.3681266
+M18976,Process temperature K,-0.4542529
+L55542,Process temperature K,0.80302453
+H37262,Process temperature K,-0.3620417
+M22857,Process temperature K,-1.2483175
+L52886,Process temperature K,-1.2963625
+L51250,Process temperature K,-0.81718963
+L55406,Process temperature K,-2.015644
+L49413,Process temperature K,-0.3336778
+L51371,Process temperature K,-1.7589802
+L56944,Process temperature K,1.1866636
+L50781,Process temperature K,-0.35007372
+M19213,Process temperature K,1.011703
+M16276,Process temperature K,0.5269349
+L49211,Process temperature K,1.6606555
+M20856,Process temperature K,-0.61336535
+M18387,Process temperature K,0.09076365
+L53307,Process temperature K,-0.20788659
+L52156,Process temperature K,-3.443305
+L51487,Process temperature K,2.4959562
+M20859,Process temperature K,-0.31898662
+L51813,Process temperature K,-0.16844754
+L50038,Process temperature K,-1.2332331
+M24356,Process temperature K,-0.88012457
+M15740,Process temperature K,1.0814204
+L51560,Process temperature K,-0.5658437
+L52380,Process temperature K,-1.741533
+L52085,Process temperature K,-4.7548738
+M17708,Process temperature K,-0.8810634
+L51534,Process temperature K,1.1711292
+M18453,Process temperature K,0.9696183
+L54717,Process temperature K,-0.92617166
+L48964,Process temperature K,-0.9517728
+L52999,Process temperature K,0.2745996
+L47436,Process temperature K,0.6299211
+L49013,Process temperature K,0.97583854
+M22863,Process temperature K,-0.88701975
+L55208,Process temperature K,0.38843518
+M16367,Process temperature K,0.2337057
+H30537,Process temperature K,1.4761294
+M18247,Process temperature K,-1.5799526
+L49514,Process temperature K,0.003958008
+L55751,Process temperature K,-0.49209094
+L56624,Process temperature K,0.46220595
+L53119,Process temperature K,-1.905616
+L51124,Process temperature K,-0.27843454
+L50179,Process temperature K,0.029571561
+L52487,Process temperature K,-0.8012049
+L52013,Process temperature K,-1.3500271
+L55204,Process temperature K,-1.4304651
+M18716,Process temperature K,-1.5887766
+M16540,Process temperature K,2.065635
+L52031,Process temperature K,-2.6031911
+L55190,Process temperature K,-0.6014539
+H38909,Process temperature K,-0.82060236
+M19080,Process temperature K,-2.0044055
+L50536,Process temperature K,-0.26375756
+M22547,Process temperature K,0.2627517
+M19063,Process temperature K,0.8029146
+L54191,Process temperature K,0.3625592
+L52580,Process temperature K,-1.3688766
+L48721,Process temperature K,-1.0645764
+L51826,Process temperature K,0.065031424
+M22881,Process temperature K,-0.7902658
+L51391,Process temperature K,1.223867
+M21996,Process temperature K,1.2017077
+L51203,Process temperature K,-0.79870486
+H32906,Process temperature K,-2.7244346
+L51824,Process temperature K,0.06316989
+L51023,Process temperature K,-1.999344
+L48025,Process temperature K,0.61682165
+L51811,Process temperature K,-0.02494092
+L47585,Process temperature K,0.9242707
+L51290,Process temperature K,-0.40754247
+M16616,Process temperature K,0.28776944
+M21318,Process temperature K,-0.12344697
+L52668,Process temperature K,-1.2418128
+H35402,Process temperature K,-0.10454355
+L56345,Process temperature K,1.2649812
+L49195,Process temperature K,0.34276465
+L54373,Process temperature K,0.6003298
+M23329,Process temperature K,1.0929861
+L53501,Process temperature K,0.14284268
+L48430,Process temperature K,0.20828426
+L53852,Process temperature K,-0.19981183
+M18096,Process temperature K,0.118716225
+L53333,Process temperature K,-0.27210453
+L48598,Process temperature K,1.227732
+M21785,Process temperature K,-0.8068884
+L52242,Process temperature K,-5.487414
+L47941,Process temperature K,1.0706757
+M22284,Process temperature K,0.46249956
+M22143,Process temperature K,-0.0037051644
+M20088,Process temperature K,-5.4609685
+M21478,Process temperature K,-1.1502624
+M17018,Process temperature K,-0.9730049
+M19509,Process temperature K,-0.34765136
+L48027,Process temperature K,0.38486487
+L52119,Process temperature K,-5.8407097
+L51293,Process temperature K,-0.5439056
+M19066,Process temperature K,0.23041452
+L50748,Process temperature K,-0.34076646
+H33443,Process temperature K,-0.0069792913
+L51823,Rotational speed rpm,2.0560107
+L51642,Rotational speed rpm,1.7738712
+L51909,Rotational speed rpm,1.0929283
+L51563,Rotational speed rpm,0.8048382
+L54689,Rotational speed rpm,2.4864092
+L51822,Rotational speed rpm,1.2656553
+L51597,Rotational speed rpm,4.702301
+L51601,Rotational speed rpm,2.0676563
+L51034,Rotational speed rpm,2.5671597
+H33894,Rotational speed rpm,4.3224587
+L54773,Rotational speed rpm,-0.18756063
+L48515,Rotational speed rpm,2.5093663
+L51681,Rotational speed rpm,3.6989613
+M20254,Rotational speed rpm,-0.10657503
+L51628,Rotational speed rpm,5.2071786
+L48676,Rotational speed rpm,0.3088502
+L51123,Rotational speed rpm,2.4662583
+H35323,Rotational speed rpm,2.6238308
+L56839,Rotational speed rpm,-0.89359295
+L51621,Rotational speed rpm,6.0385027
+L51675,Rotational speed rpm,5.304213
+L51615,Rotational speed rpm,4.7619042
+L51716,Rotational speed rpm,6.3339295
+M19269,Rotational speed rpm,5.33037
+L48341,Rotational speed rpm,0.4175211
+L51655,Rotational speed rpm,6.1833367
+L49941,Rotational speed rpm,0.3688104
+L49778,Rotational speed rpm,1.9945135
+M15984,Rotational speed rpm,-0.044207945
+L51580,Rotational speed rpm,5.858525
+L57154,Rotational speed rpm,2.5455902
+M15876,Rotational speed rpm,1.9103003
+L52100,Rotational speed rpm,2.670189
+L47429,Rotational speed rpm,-0.5839801
+L47249,Rotational speed rpm,-0.301829
+L47428,Rotational speed rpm,1.7922984
+L51690,Rotational speed rpm,2.1385217
+L51251,Rotational speed rpm,2.2871988
+L56673,Rotational speed rpm,0.057596132
+M23167,Rotational speed rpm,0.8279618
+L47340,Rotational speed rpm,-0.49919546
+L53435,Rotational speed rpm,3.0564687
+M19393,Rotational speed rpm,4.8277297
+L53677,Rotational speed rpm,2.3467708
+M19279,Rotational speed rpm,-0.19943805
+L51585,Rotational speed rpm,6.608084
+M19416,Rotational speed rpm,5.354379
+L56844,Rotational speed rpm,0.7161936
+L51738,Rotational speed rpm,6.452413
+L55578,Rotational speed rpm,1.8877696
+L51831,Rotational speed rpm,5.20513
+L55617,Rotational speed rpm,-0.34176895
+L51724,Rotational speed rpm,4.602744
+L51750,Rotational speed rpm,4.6514072
+L48775,Rotational speed rpm,1.7242405
+M19249,Rotational speed rpm,6.2491603
+M18795,Rotational speed rpm,0.4596798
+M19387,Rotational speed rpm,6.155194
+L51550,Rotational speed rpm,3.611514
+L52399,Rotational speed rpm,2.7138891
+L51434,Rotational speed rpm,1.1532426
+L51928,Rotational speed rpm,6.172927
+L51780,Rotational speed rpm,6.4606776
+M19478,Rotational speed rpm,4.629049
+L48106,Rotational speed rpm,2.83785
+M19587,Rotational speed rpm,4.0130587
+L51841,Rotational speed rpm,5.6435513
+M19287,Rotational speed rpm,5.492684
+L51939,Rotational speed rpm,6.0992723
+L51450,Rotational speed rpm,4.3717184
+L52241,Rotational speed rpm,2.2904499
+L55372,Rotational speed rpm,-1.2072939
+L53258,Rotational speed rpm,1.1459312
+L53705,Rotational speed rpm,2.9613938
+M19529,Rotational speed rpm,6.3534966
+M19143,Rotational speed rpm,1.6423498
+L48571,Rotational speed rpm,1.9752839
+L56594,Rotational speed rpm,1.5850507
+L47783,Rotational speed rpm,2.1088662
+L54347,Rotational speed rpm,2.2459416
+L56264,Rotational speed rpm,1.5792717
+H37528,Rotational speed rpm,1.0917102
+M15119,Rotational speed rpm,1.0557246
+L51586,Rotational speed rpm,4.241787
+L56355,Rotational speed rpm,0.8351792
+M19857,Rotational speed rpm,1.2606062
+L52332,Rotational speed rpm,0.5613246
+L54266,Rotational speed rpm,0.7677384
+M19704,Rotational speed rpm,5.2328444
+L51759,Rotational speed rpm,5.984083
+M19461,Rotational speed rpm,5.6171913
+H34312,Rotational speed rpm,0.73372626
+L51362,Rotational speed rpm,4.7842836
+L51800,Rotational speed rpm,4.923963
+L51791,Rotational speed rpm,5.3730397
+L52670,Rotational speed rpm,0.1300252
+L51260,Rotational speed rpm,3.8174868
+M19221,Rotational speed rpm,5.208236
+L51801,Rotational speed rpm,5.516201
+M23105,Rotational speed rpm,0.83519864
+M19202,Rotational speed rpm,1.078625
+L54263,Rotational speed rpm,-0.68673146
+L49624,Rotational speed rpm,-0.02596325
+L51898,Rotational speed rpm,4.6561203
+L51776,Rotational speed rpm,6.0180635
+L49305,Rotational speed rpm,0.0039702803
+L49511,Rotational speed rpm,-0.28919676
+M19622,Rotational speed rpm,0.2714969
+L47926,Rotational speed rpm,-0.29975054
+M19033,Rotational speed rpm,5.1337585
+L51935,Rotational speed rpm,4.225927
+L48969,Rotational speed rpm,2.116254
+L51919,Rotational speed rpm,4.6377325
+H32414,Rotational speed rpm,2.0478969
+L47507,Rotational speed rpm,2.955839
+H32274,Rotational speed rpm,-2.0290017
+L51261,Rotational speed rpm,3.455273
+M19597,Rotational speed rpm,3.9310088
+M19309,Rotational speed rpm,4.6642427
+L47643,Rotational speed rpm,1.5452296
+L53428,Rotational speed rpm,-0.6104678
+M20194,Rotational speed rpm,1.3645612
+M23442,Rotational speed rpm,1.7751145
+M19525,Rotational speed rpm,3.291212
+H34175,Rotational speed rpm,4.816142
+L48342,Rotational speed rpm,-0.25721446
+H33979,Rotational speed rpm,3.7848146
+L51228,Rotational speed rpm,2.2861867
+M23706,Rotational speed rpm,0.6519841
+L47348,Rotational speed rpm,1.5046179
+M19013,Rotational speed rpm,3.509971
+L51903,Rotational speed rpm,4.8150706
+M20475,Rotational speed rpm,0.41564265
+L55106,Rotational speed rpm,1.8460572
+L54936,Rotational speed rpm,3.5233285
+L57002,Rotational speed rpm,1.5448079
+L49674,Rotational speed rpm,0.9353397
+M19251,Rotational speed rpm,5.449658
+L48988,Rotational speed rpm,1.2119216
+L51365,Rotational speed rpm,5.0900154
+M19030,Rotational speed rpm,4.376402
+L53358,Rotational speed rpm,0.34551358
+L51427,Rotational speed rpm,3.5027444
+H33769,Rotational speed rpm,3.555038
+L52116,Rotational speed rpm,0.58079404
+L51213,Rotational speed rpm,-4.3521
+L52016,Rotational speed rpm,1.8740542
+L56834,Rotational speed rpm,2.5896785
+L55375,Rotational speed rpm,2.8383021
+L51344,Rotational speed rpm,5.2140384
+L54857,Rotational speed rpm,-0.38481402
+L57010,Rotational speed rpm,2.0414631
+L49479,Rotational speed rpm,1.7256182
+L50940,Rotational speed rpm,5.820203
+H33243,Rotational speed rpm,5.152895
+L49885,Rotational speed rpm,2.138599
+M21659,Rotational speed rpm,1.8927892
+L56847,Rotational speed rpm,1.8933201
+L50708,Rotational speed rpm,3.1202078
+H34813,Rotational speed rpm,-0.24662483
+M18674,Rotational speed rpm,1.7792721
+L51364,Rotational speed rpm,4.445209
+L51482,Rotational speed rpm,-0.46457574
+L51299,Rotational speed rpm,3.875763
+L48770,Rotational speed rpm,-1.7217187
+L50084,Rotational speed rpm,0.506974
+L51508,Rotational speed rpm,4.7084603
+M23874,Rotational speed rpm,0.47393587
+L51310,Rotational speed rpm,1.0498042
+L51359,Rotational speed rpm,5.296022
+M19011,Rotational speed rpm,5.6345477
+L51276,Rotational speed rpm,4.8980765
+L52042,Rotational speed rpm,2.4217
+M23058,Rotational speed rpm,2.0210543
+M20261,Rotational speed rpm,0.5201886
+L54716,Rotational speed rpm,2.4072742
+L50446,Rotational speed rpm,3.191595
+L50864,Rotational speed rpm,-0.09273217
+L51948,Rotational speed rpm,3.8661618
+L48265,Rotational speed rpm,-0.8711942
+H33492,Rotational speed rpm,0.46281913
+L51411,Rotational speed rpm,5.2033534
+L47230,Rotational speed rpm,1.8150213
+L52164,Rotational speed rpm,-0.20396318
+L48599,Rotational speed rpm,1.6666856
+L51911,Rotational speed rpm,3.710709
+L56196,Rotational speed rpm,0.46419242
+M20858,Rotational speed rpm,-1.5431087
+H33665,Rotational speed rpm,4.8068156
+L48763,Rotational speed rpm,0.73766756
+L52914,Rotational speed rpm,2.8316824
+L51429,Rotational speed rpm,3.380289
+L54939,Rotational speed rpm,-0.278403
+L51267,Rotational speed rpm,4.3666735
+L51320,Rotational speed rpm,1.7632438
+M22424,Rotational speed rpm,1.434748
+L47422,Rotational speed rpm,0.6443194
+L52020,Rotational speed rpm,1.2031283
+L48514,Rotational speed rpm,2.0382638
+L52011,Rotational speed rpm,5.000006
+L51465,Rotational speed rpm,5.0682077
+M18980,Rotational speed rpm,4.134347
+L50530,Rotational speed rpm,0.13358156
+L51882,Rotational speed rpm,0.53674805
+L51462,Rotational speed rpm,4.995247
+L51210,Rotational speed rpm,-1.767872
+L50205,Rotational speed rpm,2.1654804
+L51950,Rotational speed rpm,5.3951397
+L52571,Rotational speed rpm,-2.2787828
+M18884,Rotational speed rpm,1.1048161
+L48324,Rotational speed rpm,0.7386475
+L47765,Rotational speed rpm,-0.5644255
+M19580,Rotational speed rpm,5.868723
+L50668,Rotational speed rpm,3.8879657
+L50973,Rotational speed rpm,5.503186
+L51825,Rotational speed rpm,-3.5568757
+L48854,Rotational speed rpm,-1.90492
+M16184,Rotational speed rpm,-0.19523366
+L48705,Rotational speed rpm,-0.23746961
+M21538,Rotational speed rpm,2.1900916
+M15067,Rotational speed rpm,1.2638786
+L51503,Rotational speed rpm,5.330757
+H30623,Rotational speed rpm,1.0887069
+L51473,Rotational speed rpm,-1.5085534
+L50199,Rotational speed rpm,2.687599
+L55784,Rotational speed rpm,-0.7548271
+L51318,Rotational speed rpm,4.068812
+L51298,Rotational speed rpm,2.6513848
+L50776,Rotational speed rpm,3.7351096
+L51337,Rotational speed rpm,1.5169787
+M19238,Rotational speed rpm,-1.8806248
+L51459,Rotational speed rpm,5.920408
+M18727,Rotational speed rpm,0.38953626
+M18317,Rotational speed rpm,1.2236319
+L50549,Rotational speed rpm,1.783025
+H39353,Rotational speed rpm,1.0443491
+L53339,Rotational speed rpm,0.0048045516
+L49513,Rotational speed rpm,-1.639186
+H32875,Rotational speed rpm,4.384036
+L47622,Rotational speed rpm,1.1733575
+L50967,Rotational speed rpm,5.8540974
+L50989,Rotational speed rpm,3.9245322
+H34462,Rotational speed rpm,0.58590674
+L54849,Rotational speed rpm,1.0625174
+L53682,Rotational speed rpm,0.22528043
+L54112,Rotational speed rpm,1.4996451
+L54170,Rotational speed rpm,1.4741207
+M18981,Rotational speed rpm,3.1578953
+M19492,Rotational speed rpm,3.396352
+L47341,Rotational speed rpm,-1.1155667
+L56843,Rotational speed rpm,-0.62823373
+M21400,Rotational speed rpm,3.244511
+M18666,Rotational speed rpm,5.6217556
+L54261,Rotational speed rpm,1.4777147
+L53204,Rotational speed rpm,3.6686397
+H35932,Rotational speed rpm,-1.076585
+L49761,Rotational speed rpm,1.0119176
+L51335,Rotational speed rpm,5.902189
+L48859,Rotational speed rpm,-4.309089
+L54167,Rotational speed rpm,-0.5959893
+L51994,Rotational speed rpm,-1.2730064
+M18654,Rotational speed rpm,5.1371307
+L47560,Rotational speed rpm,1.8930519
+L51046,Rotational speed rpm,3.5895665
+M19118,Rotational speed rpm,1.0071307
+L49255,Rotational speed rpm,-0.650584
+L49682,Rotational speed rpm,-1.687925
+L51908,Rotational speed rpm,-1.5027846
+L48347,Rotational speed rpm,2.1168637
+L55006,Rotational speed rpm,-0.81879437
+L54104,Rotational speed rpm,0.41320002
+L54460,Rotational speed rpm,0.34691396
+L53345,Rotational speed rpm,-0.49005365
+H30814,Rotational speed rpm,1.2267345
+L51396,Rotational speed rpm,4.667433
+L51405,Rotational speed rpm,5.1228504
+L48186,Rotational speed rpm,-2.7039092
+M17739,Rotational speed rpm,1.5078242
+L51506,Rotational speed rpm,4.8545675
+M17026,Rotational speed rpm,0.09907096
+L48927,Rotational speed rpm,-0.075849794
+L56793,Rotational speed rpm,2.9845915
+L51212,Rotational speed rpm,-1.3874762
+L51910,Rotational speed rpm,-2.6941516
+L53853,Rotational speed rpm,2.9870257
+L51297,Rotational speed rpm,3.1898458
+M19113,Rotational speed rpm,4.7757583
+M20385,Rotational speed rpm,3.8425236
+M22451,Rotational speed rpm,-0.91306686
+L54749,Rotational speed rpm,-0.17646621
+L52773,Rotational speed rpm,3.7019165
+L48275,Rotational speed rpm,1.2417189
+M17286,Rotational speed rpm,3.355093
+L47255,Rotational speed rpm,2.9180856
+L52450,Rotational speed rpm,-1.1229739
+L55776,Rotational speed rpm,2.212491
+H33006,Rotational speed rpm,4.2555337
+L50676,Rotational speed rpm,2.7161164
+M18976,Rotational speed rpm,-2.077913
+L55542,Rotational speed rpm,-0.37670606
+H37262,Rotational speed rpm,-2.40163
+M22857,Rotational speed rpm,2.3658993
+L52886,Rotational speed rpm,0.9224636
+L51250,Rotational speed rpm,1.9104376
+L55406,Rotational speed rpm,0.26489958
+L49413,Rotational speed rpm,1.5935587
+L51371,Rotational speed rpm,-0.070665844
+L56944,Rotational speed rpm,0.20449844
+L50781,Rotational speed rpm,4.0994077
+M19213,Rotational speed rpm,-1.3897828
+M16276,Rotational speed rpm,-0.14239882
+L49211,Rotational speed rpm,-0.73323786
+M20856,Rotational speed rpm,-1.5716019
+M18387,Rotational speed rpm,-3.0277634
+L53307,Rotational speed rpm,-2.2945867
+L52156,Rotational speed rpm,4.357324
+L51487,Rotational speed rpm,0.71003366
+M20859,Rotational speed rpm,-0.70202476
+L51813,Rotational speed rpm,-2.1484957
+L50038,Rotational speed rpm,-0.956942
+M24356,Rotational speed rpm,0.5666336
+M15740,Rotational speed rpm,-1.0693012
+L51560,Rotational speed rpm,-1.8039924
+L52380,Rotational speed rpm,-1.4801556
+L52085,Rotational speed rpm,3.3585467
+M17708,Rotational speed rpm,-1.0772163
+L51534,Rotational speed rpm,-2.4244092
+M18453,Rotational speed rpm,3.9087505
+L54717,Rotational speed rpm,-1.1837523
+L48964,Rotational speed rpm,1.5630972
+L52999,Rotational speed rpm,-1.1687146
+L47436,Rotational speed rpm,-0.2684337
+L49013,Rotational speed rpm,0.37670368
+M22863,Rotational speed rpm,-2.085703
+L55208,Rotational speed rpm,-2.6856806
+M16367,Rotational speed rpm,1.384641
+H30537,Rotational speed rpm,0.7353613
+M18247,Rotational speed rpm,-1.2397501
+L49514,Rotational speed rpm,-1.465081
+L55751,Rotational speed rpm,-0.24763218
+L56624,Rotational speed rpm,-1.0247022
+L53119,Rotational speed rpm,-0.29044583
+L51124,Rotational speed rpm,-1.6128833
+L50179,Rotational speed rpm,0.6853119
+L52487,Rotational speed rpm,-1.4933468
+L52013,Rotational speed rpm,5.974825
+L55204,Rotational speed rpm,-1.2290361
+M18716,Rotational speed rpm,0.8042653
+M16540,Rotational speed rpm,-1.4635154
+L52031,Rotational speed rpm,4.6379986
+L55190,Rotational speed rpm,-1.1832852
+H38909,Rotational speed rpm,3.883749
+M19080,Rotational speed rpm,-1.2437873
+L50536,Rotational speed rpm,3.1922474
+M22547,Rotational speed rpm,0.17207251
+M19063,Rotational speed rpm,-3.6169882
+L54191,Rotational speed rpm,1.4239349
+L52580,Rotational speed rpm,-0.29844204
+L48721,Rotational speed rpm,-0.3432108
+L51826,Rotational speed rpm,-2.8558176
+M22881,Rotational speed rpm,-0.37927628
+L51391,Rotational speed rpm,3.9862106
+M21996,Rotational speed rpm,-0.46680975
+L51203,Rotational speed rpm,2.3870416
+H32906,Rotational speed rpm,-0.1905924
+L51824,Rotational speed rpm,-3.876531
+L51023,Rotational speed rpm,-0.22515146
+L48025,Rotational speed rpm,-1.161115
+L51811,Rotational speed rpm,-3.0116742
+L47585,Rotational speed rpm,1.1766049
+L51290,Rotational speed rpm,4.011204
+M16616,Rotational speed rpm,0.55982524
+M21318,Rotational speed rpm,-1.6820363
+L52668,Rotational speed rpm,0.66224676
+H35402,Rotational speed rpm,-0.37936753
+L56345,Rotational speed rpm,-1.4220682
+L49195,Rotational speed rpm,-0.4757247
+L54373,Rotational speed rpm,-0.29381862
+M23329,Rotational speed rpm,-2.1140027
+L53501,Rotational speed rpm,-1.1595509
+L48430,Rotational speed rpm,-2.3579593
+L53852,Rotational speed rpm,-1.2515326
+M18096,Rotational speed rpm,-0.7806791
+L53333,Rotational speed rpm,-0.9748726
+L48598,Rotational speed rpm,1.5044441
+M21785,Rotational speed rpm,-1.228506
+L52242,Rotational speed rpm,0.57920665
+L47941,Rotational speed rpm,-2.317858
+M22284,Rotational speed rpm,-2.1617424
+M22143,Rotational speed rpm,-0.3847414
+M20088,Rotational speed rpm,-0.3609184
+M21478,Rotational speed rpm,2.6145854
+M17018,Rotational speed rpm,0.07264739
+M19509,Rotational speed rpm,-2.931857
+L48027,Rotational speed rpm,0.55508363
+L52119,Rotational speed rpm,-1.3644934
+L51293,Rotational speed rpm,2.9835372
+M19066,Rotational speed rpm,-4.098553
+L50748,Rotational speed rpm,4.6139054
+H33443,Rotational speed rpm,-2.3393261
+L51823,Torque Nm,1.8555237
+L51642,Torque Nm,7.8231373
+L51909,Torque Nm,5.7271442
+L51563,Torque Nm,6.9519663
+L54689,Torque Nm,5.673008
+L51822,Torque Nm,1.4935585
+L51597,Torque Nm,6.1925063
+L51601,Torque Nm,3.0461535
+L51034,Torque Nm,10.493398
+H33894,Torque Nm,-0.67321444
+L54773,Torque Nm,9.697478
+L48515,Torque Nm,1.8392329
+L51681,Torque Nm,-0.6326313
+M20254,Torque Nm,9.58861
+L51628,Torque Nm,-2.0582025
+L48676,Torque Nm,10.724785
+L51123,Torque Nm,7.9812903
+H35323,Torque Nm,9.00199
+L56839,Torque Nm,5.527546
+L51621,Torque Nm,-2.1825945
+L51675,Torque Nm,0.74700886
+L51615,Torque Nm,-1.0349185
+L51716,Torque Nm,-1.8415095
+M19269,Torque Nm,-1.0346913
+L48341,Torque Nm,5.6863904
+L51655,Torque Nm,-2.7743995
+L49941,Torque Nm,8.969009
+L49778,Torque Nm,12.291602
+M15984,Torque Nm,10.602368
+L51580,Torque Nm,-1.9860245
+L57154,Torque Nm,12.369923
+M15876,Torque Nm,11.427683
+L52100,Torque Nm,9.422584
+L47429,Torque Nm,3.2999554
+L47249,Torque Nm,13.054148
+L47428,Torque Nm,2.4680743
+L51690,Torque Nm,2.813437
+L51251,Torque Nm,8.298435
+L56673,Torque Nm,2.2052693
+M23167,Torque Nm,13.670492
+L47340,Torque Nm,5.0573955
+L53435,Torque Nm,2.755176
+M19393,Torque Nm,-1.7671149
+L53677,Torque Nm,9.34627
+M19279,Torque Nm,6.572528
+L51585,Torque Nm,-1.5006789
+M19416,Torque Nm,-1.9406878
+L56844,Torque Nm,1.6455815
+L51738,Torque Nm,-2.6288023
+L55578,Torque Nm,7.302689
+L51831,Torque Nm,-1.7197982
+L55617,Torque Nm,6.7872543
+L51724,Torque Nm,-0.630383
+L51750,Torque Nm,-0.9709546
+L48775,Torque Nm,0.70180345
+M19249,Torque Nm,-1.8782469
+M18795,Torque Nm,8.712387
+M19387,Torque Nm,-2.2452722
+L51550,Torque Nm,2.8608327
+L52399,Torque Nm,4.384845
+L51434,Torque Nm,8.082609
+L51928,Torque Nm,-2.2080078
+L51780,Torque Nm,-2.306307
+M19478,Torque Nm,-1.7128628
+L48106,Torque Nm,1.2016189
+M19587,Torque Nm,-2.2283328
+L51841,Torque Nm,-2.1746316
+M19287,Torque Nm,-2.5006123
+L51939,Torque Nm,-2.1277776
+L51450,Torque Nm,-1.2248567
+L52241,Torque Nm,6.845381
+L55372,Torque Nm,7.0379634
+L53258,Torque Nm,4.012952
+L53705,Torque Nm,10.773929
+M19529,Torque Nm,-2.6599946
+M19143,Torque Nm,3.6192036
+L48571,Torque Nm,7.9391513
+L56594,Torque Nm,0.5892653
+L47783,Torque Nm,10.431961
+L54347,Torque Nm,5.2642646
+L56264,Torque Nm,12.112483
+H37528,Torque Nm,5.2942114
+M15119,Torque Nm,10.006201
+L51586,Torque Nm,1.0280964
+L56355,Torque Nm,12.4639435
+M19857,Torque Nm,6.9662623
+L52332,Torque Nm,5.4076204
+L54266,Torque Nm,1.4632202
+M19704,Torque Nm,-1.8537272
+L51759,Torque Nm,-2.437175
+M19461,Torque Nm,-1.0786312
+H34312,Torque Nm,1.9345967
+L51362,Torque Nm,-1.1540711
+L51800,Torque Nm,-0.87349224
+L51791,Torque Nm,-0.1984658
+L52670,Torque Nm,10.523364
+L51260,Torque Nm,1.8327105
+M19221,Torque Nm,-2.7522948
+L51801,Torque Nm,-2.1924891
+M23105,Torque Nm,11.786268
+M19202,Torque Nm,7.2818885
+L54263,Torque Nm,7.690996
+L49624,Torque Nm,10.727111
+L51898,Torque Nm,0.7116733
+L51776,Torque Nm,-2.808536
+L49305,Torque Nm,10.753782
+L49511,Torque Nm,1.5936636
+M19622,Torque Nm,6.9172792
+L47926,Torque Nm,6.9831114
+M19033,Torque Nm,-2.799722
+L51935,Torque Nm,-1.6074089
+L48969,Torque Nm,8.489501
+L51919,Torque Nm,-1.1773351
+H32414,Torque Nm,10.666751
+L47507,Torque Nm,1.432764
+H32274,Torque Nm,-2.8259466
+L51261,Torque Nm,1.5020546
+M19597,Torque Nm,0.12376616
+M19309,Torque Nm,-1.3517146
+L47643,Torque Nm,6.3946943
+L53428,Torque Nm,9.437368
+M20194,Torque Nm,7.019052
+M23442,Torque Nm,12.038373
+M19525,Torque Nm,-1.3831646
+H34175,Torque Nm,-0.60680914
+L48342,Torque Nm,3.7054095
+H33979,Torque Nm,-1.1467924
+L51228,Torque Nm,7.576395
+M23706,Torque Nm,5.882357
+L47348,Torque Nm,9.48056
+M19013,Torque Nm,-0.8950678
+L51903,Torque Nm,-2.8420038
+M20475,Torque Nm,9.311132
+L55106,Torque Nm,3.5166185
+L54936,Torque Nm,3.6746929
+L57002,Torque Nm,6.8656483
+L49674,Torque Nm,-0.14184675
+M19251,Torque Nm,-1.6017125
+L48988,Torque Nm,6.4977746
+L51365,Torque Nm,-2.655232
+M19030,Torque Nm,-1.990357
+L53358,Torque Nm,11.244707
+L51427,Torque Nm,2.40913
+H33769,Torque Nm,0.061477073
+L52116,Torque Nm,9.311891
+L51213,Torque Nm,-3.519513
+L52016,Torque Nm,2.8961544
+L56834,Torque Nm,1.9368542
+L55375,Torque Nm,1.0822834
+L51344,Torque Nm,-2.5617034
+L54857,Torque Nm,0.90911245
+L57010,Torque Nm,2.6440654
+L49479,Torque Nm,8.935355
+L50940,Torque Nm,-2.1575143
+H33243,Torque Nm,-2.4832504
+L49885,Torque Nm,8.142391
+M21659,Torque Nm,7.4474816
+L56847,Torque Nm,-1.7221917
+L50708,Torque Nm,1.0845112
+H34813,Torque Nm,2.4812171
+M18674,Torque Nm,1.3663926
+L51364,Torque Nm,-1.4443711
+L51482,Torque Nm,5.117448
+L51299,Torque Nm,-2.0726511
+L48770,Torque Nm,-2.6653166
+L50084,Torque Nm,5.4757314
+L51508,Torque Nm,-3.0005126
+M23874,Torque Nm,5.9038496
+L51310,Torque Nm,4.0066204
+L51359,Torque Nm,-1.240136
+M19011,Torque Nm,-2.0430846
+L51276,Torque Nm,-1.7075682
+L52042,Torque Nm,-1.033497
+M23058,Torque Nm,-3.6848881
+M20261,Torque Nm,1.6221938
+L54716,Torque Nm,7.79965
+L50446,Torque Nm,2.1403186
+L50864,Torque Nm,8.074536
+L51948,Torque Nm,-0.33386806
+L48265,Torque Nm,0.58807313
+H33492,Torque Nm,3.3926854
+L51411,Torque Nm,-1.9865582
+L47230,Torque Nm,7.331516
+L52164,Torque Nm,4.3496556
+L48599,Torque Nm,1.0867456
+L51911,Torque Nm,-3.0279727
+L56196,Torque Nm,1.7450926
+M20858,Torque Nm,-5.1211066
+H33665,Torque Nm,-0.7806907
+L48763,Torque Nm,6.765655
+L52914,Torque Nm,2.8361647
+L51429,Torque Nm,-0.19733906
+L54939,Torque Nm,5.0900264
+L51267,Torque Nm,-1.1833684
+L51320,Torque Nm,3.0854998
+M22424,Torque Nm,10.739241
+L47422,Torque Nm,3.4391367
+L52020,Torque Nm,3.4915717
+L48514,Torque Nm,-2.0208237
+L52011,Torque Nm,-0.08403311
+L51465,Torque Nm,-3.208362
+M18980,Torque Nm,-1.0409393
+L50530,Torque Nm,6.769023
+L51882,Torque Nm,4.020642
+L51462,Torque Nm,-3.4764724
+L51210,Torque Nm,-3.731777
+L50205,Torque Nm,-4.585125
+L51950,Torque Nm,-2.4953518
+L52571,Torque Nm,-4.5993304
+M18884,Torque Nm,4.5809817
+L48324,Torque Nm,11.095601
+L47765,Torque Nm,-2.79694
+M19580,Torque Nm,-2.9734147
+L50668,Torque Nm,-1.7964953
+L50973,Torque Nm,-2.6910524
+L51825,Torque Nm,-3.630915
+L48854,Torque Nm,-2.8662293
+M16184,Torque Nm,11.202721
+L48705,Torque Nm,0.9884525
+M21538,Torque Nm,9.376569
+M15067,Torque Nm,7.29405
+L51503,Torque Nm,-2.338146
+H30623,Torque Nm,4.3877263
+L51473,Torque Nm,-3.5440443
+L50199,Torque Nm,0.7617792
+L55784,Torque Nm,-2.4247627
+L51318,Torque Nm,0.52550685
+L51298,Torque Nm,-4.3153896
+L50776,Torque Nm,-4.0924473
+L51337,Torque Nm,2.4692245
+M19238,Torque Nm,-3.786249
+L51459,Torque Nm,-2.18827
+M18727,Torque Nm,6.307048
+M18317,Torque Nm,6.8093243
+L50549,Torque Nm,6.2611017
+H39353,Torque Nm,4.968116
+L53339,Torque Nm,6.7903314
+L49513,Torque Nm,-5.232585
+H32875,Torque Nm,-3.4409084
+L47622,Torque Nm,7.5609064
+L50967,Torque Nm,-2.5732105
+L50989,Torque Nm,-1.2887009
+H34462,Torque Nm,9.597941
+L54849,Torque Nm,4.300105
+L53682,Torque Nm,1.2716196
+L54112,Torque Nm,8.6426325
+L54170,Torque Nm,6.653698
+M18981,Torque Nm,-1.9540775
+M19492,Torque Nm,-2.2075505
+L47341,Torque Nm,1.2942922
+L56843,Torque Nm,-1.2749976
+M21400,Torque Nm,6.299444
+M18666,Torque Nm,-2.5693128
+L54261,Torque Nm,-2.2297492
+L53204,Torque Nm,8.492729
+H35932,Torque Nm,7.976287
+L49761,Torque Nm,5.781185
+L51335,Torque Nm,-1.7234604
+L48859,Torque Nm,-2.8421152
+L54167,Torque Nm,0.6943448
+L51994,Torque Nm,1.8127565
+M18654,Torque Nm,-2.6873698
+L47560,Torque Nm,6.9327164
+L51046,Torque Nm,-1.6042228
+M19118,Torque Nm,2.5005136
+L49255,Torque Nm,6.9924674
+L49682,Torque Nm,-1.4124169
+L51908,Torque Nm,-3.3681273
+L48347,Torque Nm,0.99218124
+L55006,Torque Nm,7.897792
+L54104,Torque Nm,1.5545878
+L54460,Torque Nm,10.149912
+L53345,Torque Nm,-2.4967673
+H30814,Torque Nm,4.419058
+L51396,Torque Nm,-3.7670803
+L51405,Torque Nm,-3.0506287
+L48186,Torque Nm,-1.9366504
+M17739,Torque Nm,5.3333893
+L51506,Torque Nm,0.39992034
+M17026,Torque Nm,-0.15381372
+L48927,Torque Nm,1.1314374
+L56793,Torque Nm,5.5144677
+L51212,Torque Nm,-2.1006253
+L51910,Torque Nm,-3.444015
+L53853,Torque Nm,-0.4589137
+L51297,Torque Nm,0.36216927
+M19113,Torque Nm,-2.2525835
+M20385,Torque Nm,-3.468043
+M22451,Torque Nm,4.626511
+L54749,Torque Nm,10.679579
+L52773,Torque Nm,-2.7189703
+L48275,Torque Nm,6.108963
+M17286,Torque Nm,7.1138773
+L47255,Torque Nm,-4.180429
+L52450,Torque Nm,5.5128593
+L55776,Torque Nm,-0.06731462
+H33006,Torque Nm,-3.848324
+L50676,Torque Nm,-2.924459
+M18976,Torque Nm,2.8992798
+L55542,Torque Nm,3.5644033
+H37262,Torque Nm,-3.3616135
+M22857,Torque Nm,7.19655
+L52886,Torque Nm,9.909952
+L51250,Torque Nm,0.3933259
+L55406,Torque Nm,5.251471
+L49413,Torque Nm,6.508935
+L51371,Torque Nm,1.5635734
+L56944,Torque Nm,8.688665
+L50781,Torque Nm,-6.147328
+M19213,Torque Nm,6.9520974
+M16276,Torque Nm,-1.9214134
+L49211,Torque Nm,3.8333228
+M20856,Torque Nm,-2.973066
+M18387,Torque Nm,-5.3082814
+L53307,Torque Nm,5.34207
+L52156,Torque Nm,2.0939987
+L51487,Torque Nm,5.304667
+M20859,Torque Nm,1.2757971
+L51813,Torque Nm,-3.9911718
+L50038,Torque Nm,0.644981
+M24356,Torque Nm,-3.1290958
+M15740,Torque Nm,9.663804
+L51560,Torque Nm,-2.706853
+L52380,Torque Nm,3.096585
+L52085,Torque Nm,-1.8452911
+M17708,Torque Nm,0.86917
+L51534,Torque Nm,2.7593381
+M18453,Torque Nm,-4.601322
+L54717,Torque Nm,6.1165075
+L48964,Torque Nm,6.4568005
+L52999,Torque Nm,-5.997127
+L47436,Torque Nm,4.6153626
+L49013,Torque Nm,6.1044955
+M22863,Torque Nm,6.0124
+L55208,Torque Nm,-5.8979077
+M16367,Torque Nm,-0.9060525
+H30537,Torque Nm,8.113588
+M18247,Torque Nm,3.8761945
+L49514,Torque Nm,-6.5703416
+L55751,Torque Nm,1.5038289
+L56624,Torque Nm,-2.6623113
+L53119,Torque Nm,5.406183
+L51124,Torque Nm,-5.182048
+L50179,Torque Nm,5.7948737
+L52487,Torque Nm,-3.6411061
+L52013,Torque Nm,-2.8786027
+L55204,Torque Nm,-6.074593
+M18716,Torque Nm,0.15588376
+M16540,Torque Nm,-2.7059646
+L52031,Torque Nm,-0.74209225
+L55190,Torque Nm,3.521359
+H38909,Torque Nm,-3.150674
+M19080,Torque Nm,3.2802794
+L50536,Torque Nm,3.7260194
+M22547,Torque Nm,-1.4270562
+M19063,Torque Nm,-2.8338082
+L54191,Torque Nm,7.0866046
+L52580,Torque Nm,-0.968803
+L48721,Torque Nm,1.0097047
+L51826,Torque Nm,-1.0356979
+M22881,Torque Nm,-3.8249893
+L51391,Torque Nm,-1.7595122
+M21996,Torque Nm,3.0512354
+L51203,Torque Nm,-5.331095
+H32906,Torque Nm,3.5598135
+L51824,Torque Nm,-4.32383
+L51023,Torque Nm,1.6046848
+L48025,Torque Nm,-4.8865676
+L51811,Torque Nm,-3.8153548
+L47585,Torque Nm,1.648491
+L51290,Torque Nm,-3.345036
+M16616,Torque Nm,2.588307
+M21318,Torque Nm,3.0409026
+L52668,Torque Nm,1.2506195
+H35402,Torque Nm,0.6148915
+L56345,Torque Nm,2.7058277
+L49195,Torque Nm,7.2724457
+L54373,Torque Nm,6.357224
+M23329,Torque Nm,5.009784
+L53501,Torque Nm,5.3523564
+L48430,Torque Nm,-4.1457
+L53852,Torque Nm,-3.9194975
+M18096,Torque Nm,2.789576
+L53333,Torque Nm,8.685404
+L48598,Torque Nm,-4.2020187
+M21785,Torque Nm,-1.9683967
+L52242,Torque Nm,-1.5990844
+L47941,Torque Nm,-4.668046
+M22284,Torque Nm,-1.110028
+M22143,Torque Nm,1.3430289
+M20088,Torque Nm,2.7916205
+M21478,Torque Nm,7.1555443
+M17018,Torque Nm,-5.710751
+M19509,Torque Nm,2.9934773
+L48027,Torque Nm,1.6233062
+L52119,Torque Nm,3.199726
+L51293,Torque Nm,-1.7950389
+M19066,Torque Nm,-3.262536
+L50748,Torque Nm,-1.2858536
+H33443,Torque Nm,-1.9720289
+L51823,Tool wear min,5.9233294
+L51642,Tool wear min,1.0540819
+L51909,Tool wear min,3.3416028
+L51563,Tool wear min,5.525371
+L54689,Tool wear min,4.7033906
+L51822,Tool wear min,4.4032345
+L51597,Tool wear min,-1.3258011
+L51601,Tool wear min,-1.1150371
+L51034,Tool wear min,0.86651593
+H33894,Tool wear min,-1.6433778
+L54773,Tool wear min,3.1957
+L48515,Tool wear min,9.103829
+L51681,Tool wear min,-0.58796775
+M20254,Tool wear min,4.350872
+L51628,Tool wear min,-1.6550545
+L48676,Tool wear min,0.8085902
+L51123,Tool wear min,2.2902777
+H35323,Tool wear min,2.6663918
+L56839,Tool wear min,5.5123305
+L51621,Tool wear min,-1.3303126
+L51675,Tool wear min,-2.2031355
+L51615,Tool wear min,-2.339557
+L51716,Tool wear min,-1.2686788
+M19269,Tool wear min,-0.44774833
+L48341,Tool wear min,3.236076
+L51655,Tool wear min,-2.0854573
+L49941,Tool wear min,3.6640866
+L49778,Tool wear min,-1.7875886
+M15984,Tool wear min,-1.794242
+L51580,Tool wear min,-0.94295955
+L57154,Tool wear min,-2.4028986
+M15876,Tool wear min,-1.8989611
+L52100,Tool wear min,-2.139024
+L47429,Tool wear min,7.486511
+L47249,Tool wear min,0.36481166
+L47428,Tool wear min,6.033649
+L51690,Tool wear min,-2.2407775
+L51251,Tool wear min,-1.2455177
+L56673,Tool wear min,6.5364766
+M23167,Tool wear min,-2.0366642
+L47340,Tool wear min,5.9758077
+L53435,Tool wear min,2.6914103
+M19393,Tool wear min,-1.5717297
+L53677,Tool wear min,1.832774
+M19279,Tool wear min,-0.3822894
+L51585,Tool wear min,-0.9957473
+M19416,Tool wear min,-1.4993371
+L56844,Tool wear min,8.402209
+L51738,Tool wear min,-2.7158158
+L55578,Tool wear min,-1.2595676
+L51831,Tool wear min,-2.685152
+L55617,Tool wear min,3.896234
+L51724,Tool wear min,-1.9191284
+L51750,Tool wear min,-2.0104744
+L48775,Tool wear min,6.2755265
+M19249,Tool wear min,-2.041575
+M18795,Tool wear min,0.7470351
+M19387,Tool wear min,-1.2466495
+L51550,Tool wear min,0.60636544
+L52399,Tool wear min,2.8511884
+L51434,Tool wear min,-2.1238935
+L51928,Tool wear min,-2.0750914
+L51780,Tool wear min,-2.0344594
+M19478,Tool wear min,-2.0219254
+L48106,Tool wear min,4.378436
+M19587,Tool wear min,1.0983136
+L51841,Tool wear min,-1.2215383
+M19287,Tool wear min,-0.4949451
+L51939,Tool wear min,-1.7642063
+L51450,Tool wear min,-2.4339416
+L52241,Tool wear min,2.496499
+L55372,Tool wear min,4.9378176
+L53258,Tool wear min,3.717402
+L53705,Tool wear min,-1.5211204
+M19529,Tool wear min,-1.381308
+M19143,Tool wear min,-0.5446058
+L48571,Tool wear min,-0.7701907
+L56594,Tool wear min,4.788524
+L47783,Tool wear min,-2.0942771
+L54347,Tool wear min,4.2430515
+L56264,Tool wear min,-2.138686
+H37528,Tool wear min,-4.131597
+M15119,Tool wear min,-2.0981
+L51586,Tool wear min,-2.146263
+L56355,Tool wear min,-2.6644094
+M19857,Tool wear min,-0.7003566
+L52332,Tool wear min,-3.4477272
+L54266,Tool wear min,-0.45738345
+M19704,Tool wear min,-1.2728518
+L51759,Tool wear min,-1.3973526
+M19461,Tool wear min,-2.0232859
+H34312,Tool wear min,4.886638
+L51362,Tool wear min,-2.7542186
+L51800,Tool wear min,-2.6839616
+L51791,Tool wear min,-3.2201128
+L52670,Tool wear min,-1.5315214
+L51260,Tool wear min,-2.860176
+M19221,Tool wear min,-1.1793475
+L51801,Tool wear min,-1.8131646
+M23105,Tool wear min,-1.7337809
+M19202,Tool wear min,-1.3184081
+L54263,Tool wear min,3.3740036
+L49624,Tool wear min,-2.2059162
+L51898,Tool wear min,-0.82834786
+L51776,Tool wear min,-1.878931
+L49305,Tool wear min,-2.545272
+L49511,Tool wear min,6.828287
+M19622,Tool wear min,-0.28324312
+L47926,Tool wear min,2.3892941
+M19033,Tool wear min,-1.2877533
+L51935,Tool wear min,-1.616797
+L48969,Tool wear min,-2.7622812
+L51919,Tool wear min,-3.956971
+H32414,Tool wear min,-2.4053004
+L47507,Tool wear min,2.7605019
+H32274,Tool wear min,6.992272
+L51261,Tool wear min,-2.9390407
+M19597,Tool wear min,-2.9774673
+M19309,Tool wear min,-1.3735293
+L47643,Tool wear min,-1.1717302
+L53428,Tool wear min,0.530831
+M20194,Tool wear min,-0.3865893
+M23442,Tool wear min,-2.373009
+M19525,Tool wear min,-1.7886757
+H34175,Tool wear min,-2.0160537
+L48342,Tool wear min,3.343003
+H33979,Tool wear min,-2.2578046
+L51228,Tool wear min,-0.6801109
+M23706,Tool wear min,3.12348
+L47348,Tool wear min,-3.2413852
+M19013,Tool wear min,-0.82218796
+L51903,Tool wear min,0.029360775
+M20475,Tool wear min,-1.6908958
+L55106,Tool wear min,1.650702
+L54936,Tool wear min,1.4348223
+L57002,Tool wear min,1.4107968
+L49674,Tool wear min,4.4958634
+M19251,Tool wear min,-2.2865424
+L48988,Tool wear min,-1.6038442
+L51365,Tool wear min,-1.8624496
+M19030,Tool wear min,-1.5231495
+L53358,Tool wear min,-2.0979886
+L51427,Tool wear min,-1.5504001
+H33769,Tool wear min,-1.9742211
+L52116,Tool wear min,-1.2697408
+L51213,Tool wear min,6.3433347
+L52016,Tool wear min,-2.6326323
+L56834,Tool wear min,2.955055
+L55375,Tool wear min,5.341529
+L51344,Tool wear min,-2.10735
+L54857,Tool wear min,5.8111973
+L57010,Tool wear min,4.2980814
+L49479,Tool wear min,-3.8496163
+L50940,Tool wear min,-2.365915
+H33243,Tool wear min,-1.5224493
+L49885,Tool wear min,-2.870887
+M21659,Tool wear min,-0.8831551
+L56847,Tool wear min,8.318165
+L50708,Tool wear min,3.3599353
+H34813,Tool wear min,8.616602
+M18674,Tool wear min,-0.2727525
+L51364,Tool wear min,-2.7649724
+L51482,Tool wear min,-4.2254767
+L51299,Tool wear min,2.0782766
+L48770,Tool wear min,3.4889996
+L50084,Tool wear min,-2.208542
+L51508,Tool wear min,-0.91111124
+M23874,Tool wear min,4.2238326
+L51310,Tool wear min,-1.8889102
+L51359,Tool wear min,-1.9343275
+M19011,Tool wear min,-0.39966613
+L51276,Tool wear min,-2.608786
+L52042,Tool wear min,-4.001076
+M23058,Tool wear min,4.9497757
+M20261,Tool wear min,7.932666
+L54716,Tool wear min,-1.2095894
+L50446,Tool wear min,1.1778535
+L50864,Tool wear min,1.1994429
+L51948,Tool wear min,-1.3323896
+L48265,Tool wear min,2.471008
+H33492,Tool wear min,-1.3995651
+L51411,Tool wear min,-2.5852497
+L47230,Tool wear min,-0.5378125
+L52164,Tool wear min,3.229243
+L48599,Tool wear min,4.455412
+L51911,Tool wear min,-0.015720554
+L56196,Tool wear min,5.8173423
+M20858,Tool wear min,6.561728
+H33665,Tool wear min,-1.2246072
+L48763,Tool wear min,1.8098248
+L52914,Tool wear min,4.3237977
+L51429,Tool wear min,-2.6787887
+L54939,Tool wear min,2.867952
+L51267,Tool wear min,-2.9470704
+L51320,Tool wear min,-1.8780006
+M22424,Tool wear min,-2.666157
+L47422,Tool wear min,2.1431668
+L52020,Tool wear min,-2.5944717
+L48514,Tool wear min,7.8094
+L52011,Tool wear min,-2.6638927
+L51465,Tool wear min,-0.6280417
+M18980,Tool wear min,1.7726548
+L50530,Tool wear min,0.5097326
+L51882,Tool wear min,-2.6560545
+L51462,Tool wear min,-1.5121773
+L51210,Tool wear min,5.1445374
+L50205,Tool wear min,1.7144244
+L51950,Tool wear min,-0.53354394
+L52571,Tool wear min,5.993539
+M18884,Tool wear min,4.129962
+L48324,Tool wear min,-2.8951333
+L47765,Tool wear min,3.1355798
+M19580,Tool wear min,-0.73535186
+L50668,Tool wear min,-3.3952026
+L50973,Tool wear min,-1.808623
+L51825,Tool wear min,5.615039
+L48854,Tool wear min,1.7117368
+M16184,Tool wear min,0.86867696
+L48705,Tool wear min,-2.9094229
+M21538,Tool wear min,-1.9494113
+M15067,Tool wear min,-2.2094536
+L51503,Tool wear min,-0.701535
+H30623,Tool wear min,-1.9232337
+L51473,Tool wear min,3.6750681
+L50199,Tool wear min,4.5966167
+L55784,Tool wear min,2.6319258
+L51318,Tool wear min,-2.432578
+L51298,Tool wear min,0.013902269
+L50776,Tool wear min,-2.6983168
+L51337,Tool wear min,-1.1022073
+M19238,Tool wear min,1.7144743
+L51459,Tool wear min,-1.897748
+M18727,Tool wear min,-2.2270477
+M18317,Tool wear min,-1.774679
+L50549,Tool wear min,-1.495081
+H39353,Tool wear min,-2.0769088
+L53339,Tool wear min,0.32175383
+L49513,Tool wear min,4.07396
+H32875,Tool wear min,-0.7138297
+L47622,Tool wear min,-3.3781917
+L50967,Tool wear min,-3.0182652
+L50989,Tool wear min,-3.616443
+H34462,Tool wear min,-1.1540344
+L54849,Tool wear min,1.5810908
+L53682,Tool wear min,-0.40129706
+L54112,Tool wear min,-2.501051
+L54170,Tool wear min,-1.0368576
+M18981,Tool wear min,1.2343765
+M19492,Tool wear min,-0.33406672
+L47341,Tool wear min,7.6133447
+L56843,Tool wear min,9.610025
+M21400,Tool wear min,-0.6514515
+M18666,Tool wear min,-1.3625956
+L54261,Tool wear min,0.5629329
+L53204,Tool wear min,-3.4112651
+H35932,Tool wear min,-1.983933
+L49761,Tool wear min,2.388264
+L51335,Tool wear min,-0.06189152
+L48859,Tool wear min,4.1348267
+L54167,Tool wear min,-3.2467651
+L51994,Tool wear min,5.496631
+M18654,Tool wear min,-1.8586452
+L47560,Tool wear min,-0.59708893
+L51046,Tool wear min,-3.3664382
+M19118,Tool wear min,-2.1770368
+L49255,Tool wear min,0.9719275
+L49682,Tool wear min,9.7943125
+L51908,Tool wear min,2.5757413
+L48347,Tool wear min,4.6088424
+L55006,Tool wear min,-2.2686775
+L54104,Tool wear min,5.9622827
+L54460,Tool wear min,-2.4871032
+L53345,Tool wear min,3.340431
+H30814,Tool wear min,-3.9133177
+L51396,Tool wear min,-2.7605898
+L51405,Tool wear min,-2.0256698
+L48186,Tool wear min,1.0359317
+M17739,Tool wear min,-1.9910139
+L51506,Tool wear min,-2.1635687
+M17026,Tool wear min,7.3312635
+L48927,Tool wear min,-2.909057
+L56793,Tool wear min,-2.583742
+L51212,Tool wear min,8.249442
+L51910,Tool wear min,2.12741
+L53853,Tool wear min,4.266464
+L51297,Tool wear min,0.86687917
+M19113,Tool wear min,-1.4592328
+M20385,Tool wear min,-1.4470817
+M22451,Tool wear min,2.7751718
+L54749,Tool wear min,-2.6574814
+L52773,Tool wear min,-2.7053614
+L48275,Tool wear min,-1.2930179
+M17286,Tool wear min,-1.5853649
+L47255,Tool wear min,-0.25522083
+L52450,Tool wear min,-3.7253735
+L55776,Tool wear min,-0.8470817
+H33006,Tool wear min,-3.2272363
+L50676,Tool wear min,-3.0840206
+M18976,Tool wear min,-0.23739044
+L55542,Tool wear min,-4.801768
+H37262,Tool wear min,3.3591754
+M22857,Tool wear min,-0.97926766
+L52886,Tool wear min,-2.1633906
+L51250,Tool wear min,-4.130207
+L55406,Tool wear min,-4.5130095
+L49413,Tool wear min,-0.33585295
+L51371,Tool wear min,-2.376516
+L56944,Tool wear min,-1.7479582
+L50781,Tool wear min,-1.9348549
+M19213,Tool wear min,-2.7231076
+M16276,Tool wear min,1.9389948
+L49211,Tool wear min,-3.8972573
+M20856,Tool wear min,5.855156
+M18387,Tool wear min,2.6217232
+L53307,Tool wear min,-3.653198
+L52156,Tool wear min,0.18362223
+L51487,Tool wear min,-1.7105716
+M20859,Tool wear min,7.4914713
+L51813,Tool wear min,1.2205544
+L50038,Tool wear min,10.101431
+M24356,Tool wear min,5.3211384
+M15740,Tool wear min,-1.0025469
+L51560,Tool wear min,4.1309857
+L52380,Tool wear min,-5.3430448
+L52085,Tool wear min,-4.304247
+M17708,Tool wear min,0.7085939
+L51534,Tool wear min,-4.8555355
+M18453,Tool wear min,-2.6577878
+L54717,Tool wear min,-4.524721
+L48964,Tool wear min,-0.9402705
+L52999,Tool wear min,3.4054809
+L47436,Tool wear min,-4.614136
+L49013,Tool wear min,1.3044685
+M22863,Tool wear min,-3.2142677
+L55208,Tool wear min,5.4944572
+M16367,Tool wear min,2.7152708
+H30537,Tool wear min,-1.9217039
+M18247,Tool wear min,-3.8926978
+L49514,Tool wear min,3.7580895
+L55751,Tool wear min,-2.4842012
+L56624,Tool wear min,-2.573571
+L53119,Tool wear min,-4.313574
+L51124,Tool wear min,2.9681985
+L50179,Tool wear min,-4.4134245
+L52487,Tool wear min,2.6415787
+L52013,Tool wear min,-1.166107
+L55204,Tool wear min,2.7319775
+M18716,Tool wear min,0.2941428
+M16540,Tool wear min,3.5268874
+L52031,Tool wear min,-1.0993059
+L55190,Tool wear min,-2.7252035
+H38909,Tool wear min,2.8689353
+M19080,Tool wear min,-2.9934077
+L50536,Tool wear min,0.859652
+M22547,Tool wear min,6.7658863
+M19063,Tool wear min,3.3561819
+L54191,Tool wear min,-1.2417608
+L52580,Tool wear min,8.4821825
+L48721,Tool wear min,-2.0713236
+L51826,Tool wear min,7.3452134
+M22881,Tool wear min,3.9861906
+L51391,Tool wear min,-4.14978
+M21996,Tool wear min,-3.269243
+L51203,Tool wear min,-0.2105901
+H32906,Tool wear min,-3.076902
+L51824,Tool wear min,3.9533322
+L51023,Tool wear min,-3.0401795
+L48025,Tool wear min,3.4878767
+L51811,Tool wear min,-1.6130753
+L47585,Tool wear min,-1.4088317
+L51290,Tool wear min,-2.3519628
+M16616,Tool wear min,-0.104572415
+M21318,Tool wear min,-2.129276
+L52668,Tool wear min,4.645363
+H35402,Tool wear min,1.1985638
+L56345,Tool wear min,-4.3389544
+L49195,Tool wear min,-3.2849205
+L54373,Tool wear min,-3.0787842
+M23329,Tool wear min,-3.2371907
+L53501,Tool wear min,-3.7283416
+L48430,Tool wear min,3.3369029
+L53852,Tool wear min,2.1962414
+M18096,Tool wear min,-3.521711
+L53333,Tool wear min,0.04224883
+L48598,Tool wear min,1.8622761
+M21785,Tool wear min,2.7253287
+L52242,Tool wear min,0.742774
+L47941,Tool wear min,4.4789343
+M22284,Tool wear min,2.4556684
+M22143,Tool wear min,-4.883101
+M20088,Tool wear min,-4.0354166
+M21478,Tool wear min,-1.7887665
+M17018,Tool wear min,2.4340107
+M19509,Tool wear min,-4.551399
+L48027,Tool wear min,-1.1471882
+L52119,Tool wear min,-3.4461296
+L51293,Tool wear min,-1.6255597
+M19066,Tool wear min,2.2882285
+L50748,Tool wear min,-3.1227975
+H33443,Tool wear min,3.6264565
+L51823,Type_L,0.5860293
+L51642,Type_L,0.23278643
+L51909,Type_L,0.3425772
+L51563,Type_L,0.39491805
+L54689,Type_L,0.719286
+L51822,Type_L,0.5312276
+L51597,Type_L,0.02964127
+L51601,Type_L,-0.04142264
+L51034,Type_L,0.3124462
+H33894,Type_L,-0.4836493
+L54773,Type_L,0.34541202
+L48515,Type_L,1.0084232
+L51681,Type_L,0.109934136
+M20254,Type_L,-0.9192028
+L51628,Type_L,0.13352847
+L48676,Type_L,0.27109656
+L51123,Type_L,0.3240063
+H35323,Type_L,-0.88499147
+L56839,Type_L,0.62181914
+L51621,Type_L,0.098754056
+L51675,Type_L,0.1595149
+L51615,Type_L,0.052565202
+L51716,Type_L,0.014224561
+M19269,Type_L,-0.41397825
+L48341,Type_L,0.4294959
+L51655,Type_L,0.05908917
+L49941,Type_L,0.31738612
+L49778,Type_L,0.19501689
+M15984,Type_L,-0.21381241
+L51580,Type_L,0.07796161
+L57154,Type_L,0.17455354
+M15876,Type_L,-0.38272858
+L52100,Type_L,0.068948224
+L47429,Type_L,0.66210186
+L47249,Type_L,0.41719288
+L47428,Type_L,0.8020544
+L51690,Type_L,-0.09014
+L51251,Type_L,0.0018408485
+L56673,Type_L,0.6973938
+M23167,Type_L,-0.4921108
+L47340,Type_L,0.54235077
+L53435,Type_L,0.82273847
+M19393,Type_L,-0.57150453
+L53677,Type_L,0.2832745
+M19279,Type_L,-0.21120664
+L51585,Type_L,0.062080584
+M19416,Type_L,-0.34562376
+L56844,Type_L,0.94948465
+L51738,Type_L,0.009781593
+L55578,Type_L,0.5583693
+L51831,Type_L,0.12635987
+L55617,Type_L,0.40832302
+L51724,Type_L,0.37556034
+L51750,Type_L,0.13254312
+L48775,Type_L,0.63380826
+M19249,Type_L,-0.060221717
+M18795,Type_L,-0.62059027
+M19387,Type_L,-0.18301684
+L51550,Type_L,0.57595766
+L52399,Type_L,0.49899206
+L51434,Type_L,-0.043573484
+L51928,Type_L,0.021995185
+L51780,Type_L,-0.00941748
+M19478,Type_L,-0.60400325
+L48106,Type_L,0.6676418
+M19587,Type_L,-0.13891733
+L51841,Type_L,0.04882699
+M19287,Type_L,0.054018676
+L51939,Type_L,0.022443123
+L51450,Type_L,0.13123858
+L52241,Type_L,0.36102644
+L55372,Type_L,0.404154
+L53258,Type_L,0.70930994
+L53705,Type_L,0.12512793
+M19529,Type_L,-0.12981462
+M19143,Type_L,-0.7585015
+L48571,Type_L,0.6460915
+L56594,Type_L,0.6738651
+L47783,Type_L,0.18697608
+L54347,Type_L,0.43996203
+L56264,Type_L,0.12415219
+H37528,Type_L,-1.205538
+M15119,Type_L,-0.4204916
+L51586,Type_L,0.17699961
+L56355,Type_L,0.15400125
+M19857,Type_L,-0.30308765
+L52332,Type_L,0.121470146
+L54266,Type_L,0.14065912
+M19704,Type_L,-0.3442592
+L51759,Type_L,0.047979865
+M19461,Type_L,-0.42414492
+H34312,Type_L,-1.1420363
+L51362,Type_L,0.12908809
+L51800,Type_L,0.19925854
+L51791,Type_L,0.15626049
+L52670,Type_L,0.068033606
+L51260,Type_L,0.09503718
+M19221,Type_L,-0.0839074
+L51801,Type_L,0.15190801
+M23105,Type_L,-0.46918577
+M19202,Type_L,-0.06384812
+L54263,Type_L,0.3801582
+L49624,Type_L,0.108950965
+L51898,Type_L,0.42882168
+L51776,Type_L,-0.055014696
+L49305,Type_L,0.09109553
+L49511,Type_L,0.69033635
+M19622,Type_L,-0.2929978
+L47926,Type_L,0.42815992
+M19033,Type_L,-0.23503844
+L51935,Type_L,0.12065754
+L48969,Type_L,0.12404568
+L51919,Type_L,0.14643303
+H32414,Type_L,-0.22053833
+L47507,Type_L,0.7559479
+H32274,Type_L,-1.052384
+L51261,Type_L,0.117087364
+M19597,Type_L,-0.60820884
+M19309,Type_L,-0.6046592
+L47643,Type_L,0.45119864
+L53428,Type_L,0.33888415
+M20194,Type_L,-0.29386526
+M23442,Type_L,-0.32438025
+M19525,Type_L,-0.48794407
+H34175,Type_L,-0.51529837
+L48342,Type_L,0.6162888
+H33979,Type_L,-0.49377623
+L51228,Type_L,0.23016731
+M23706,Type_L,-1.4319971
+L47348,Type_L,0.1621075
+M19013,Type_L,-0.569903
+L51903,Type_L,0.23978491
+M20475,Type_L,-0.09978233
+L55106,Type_L,0.87049115
+L54936,Type_L,0.8932226
+L57002,Type_L,0.51116174
+L49674,Type_L,0.60822564
+M19251,Type_L,-0.36117396
+L48988,Type_L,0.43571728
+L51365,Type_L,0.040709645
+M19030,Type_L,-0.40425742
+L53358,Type_L,0.17569125
+L51427,Type_L,0.13278948
+H33769,Type_L,-0.39111584
+L52116,Type_L,-0.02409027
+L51213,Type_L,0.09797687
+L52016,Type_L,0.098411426
+L56834,Type_L,0.8996947
+L55375,Type_L,0.83489597
+L51344,Type_L,-0.08733896
+L54857,Type_L,0.47973257
+L57010,Type_L,0.8672989
+L49479,Type_L,0.15312162
+L50940,Type_L,0.07115337
+H33243,Type_L,-0.26853463
+L49885,Type_L,0.12584442
+M21659,Type_L,-0.43710354
+L56847,Type_L,0.6448303
+L50708,Type_L,0.43145072
+H34813,Type_L,-1.631949
+M18674,Type_L,-0.42601407
+L51364,Type_L,0.21089824
+L51482,Type_L,0.072029606
+L51299,Type_L,0.06033892
+L48770,Type_L,0.19503182
+L50084,Type_L,-0.05736793
+L51508,Type_L,0.021544825
+M23874,Type_L,-1.3590057
+L51310,Type_L,0.13979773
+L51359,Type_L,0.049149983
+M19011,Type_L,-0.12252011
+L51276,Type_L,0.15622422
+L52042,Type_L,0.013222067
+M23058,Type_L,-1.6036031
+M20261,Type_L,-1.4857885
+L54716,Type_L,0.51735765
+L50446,Type_L,0.60443956
+L50864,Type_L,0.2679301
+L51948,Type_L,0.12979835
+L48265,Type_L,0.59990925
+H33492,Type_L,-0.16729297
+L51411,Type_L,0.06756692
+L47230,Type_L,0.58416194
+L52164,Type_L,0.49441537
+L48599,Type_L,0.6589916
+L51911,Type_L,0.06933532
+L56196,Type_L,0.4939087
+M20858,Type_L,-0.34141254
+H33665,Type_L,-0.53083307
+L48763,Type_L,0.43605962
+L52914,Type_L,0.58173645
+L51429,Type_L,0.14085236
+L54939,Type_L,0.7590995
+L51267,Type_L,0.15854138
+L51320,Type_L,0.124700405
+M22424,Type_L,-0.45866072
+L47422,Type_L,0.8347613
+L52020,Type_L,0.093365125
+L48514,Type_L,0.6838075
+L52011,Type_L,0.13709685
+L51465,Type_L,0.13252842
+M18980,Type_L,-0.032223143
+L50530,Type_L,0.3362519
+L51882,Type_L,0.03309167
+L51462,Type_L,0.004950797
+L51210,Type_L,0.11037978
+L50205,Type_L,0.22447841
+L51950,Type_L,0.08163213
+L52571,Type_L,0.052463833
+M18884,Type_L,-1.3442696
+L48324,Type_L,0.08074678
+L47765,Type_L,0.32948363
+M19580,Type_L,-0.3412047
+L50668,Type_L,0.1447409
+L50973,Type_L,0.17961507
+L51825,Type_L,0.048185892
+L48854,Type_L,0.16204792
+M16184,Type_L,-1.1310062
+L48705,Type_L,0.44176838
+M21538,Type_L,-0.31600815
+M15067,Type_L,-0.41819733
+L51503,Type_L,0.08610819
+H30623,Type_L,-1.2850028
+L51473,Type_L,-0.06148883
+L50199,Type_L,0.44557184
+L55784,Type_L,0.45337206
+L51318,Type_L,0.21357593
+L51298,Type_L,0.029557288
+L50776,Type_L,0.11171811
+L51337,Type_L,0.036226846
+M19238,Type_L,-0.11186233
+L51459,Type_L,-0.013899546
+M18727,Type_L,-0.33498603
+M18317,Type_L,-0.43077534
+L50549,Type_L,0.29308406
+H39353,Type_L,-1.4514304
+L53339,Type_L,0.7443366
+L49513,Type_L,0.23055297
+H32875,Type_L,-0.47626513
+L47622,Type_L,0.1636216
+L50967,Type_L,0.07052196
+L50989,Type_L,0.1759206
+H34462,Type_L,-0.19201258
+L54849,Type_L,0.8400479
+L53682,Type_L,0.041418098
+L54112,Type_L,0.16606012
+L54170,Type_L,0.28091696
+M18981,Type_L,0.009153761
+M19492,Type_L,-1.422311
+L47341,Type_L,0.60044736
+L56843,Type_L,0.6167669
+M21400,Type_L,-0.3357587
+M18666,Type_L,-0.27207536
+L54261,Type_L,0.45346683
+L53204,Type_L,0.12849128
+H35932,Type_L,-0.32469156
+L49761,Type_L,0.5942062
+L51335,Type_L,0.046539288
+L48859,Type_L,0.19829312
+L54167,Type_L,0.24913748
+L51994,Type_L,0.35733896
+M18654,Type_L,-0.28210753
+L47560,Type_L,0.5182633
+L51046,Type_L,0.14320454
+M19118,Type_L,-0.1618605
+L49255,Type_L,0.8792346
+L49682,Type_L,0.57784
+L51908,Type_L,0.0035544299
+L48347,Type_L,0.5380136
+L55006,Type_L,0.17515993
+L54104,Type_L,0.47585297
+L54460,Type_L,0.19452678
+L53345,Type_L,0.13349347
+H30814,Type_L,-0.7404406
+L51396,Type_L,0.11433291
+L51405,Type_L,0.10043965
+L48186,Type_L,0.4424857
+M17739,Type_L,-0.28094235
+L51506,Type_L,0.11135844
+M17026,Type_L,-0.6948885
+L48927,Type_L,0.43289325
+L56793,Type_L,0.24049842
+L51212,Type_L,0.46194935
+L51910,Type_L,0.082800284
+L53853,Type_L,0.5211729
+L51297,Type_L,0.5705888
+M19113,Type_L,-0.11569069
+M20385,Type_L,-0.20994401
+M22451,Type_L,-1.9054267
+L54749,Type_L,0.15296942
+L52773,Type_L,0.02163298
+L48275,Type_L,0.5475106
+M17286,Type_L,-0.54274637
+L47255,Type_L,0.28312147
+L52450,Type_L,-0.05333116
+L55776,Type_L,0.555095
+H33006,Type_L,-0.26638794
+L50676,Type_L,-0.050062127
+M18976,Type_L,-2.394344
+L55542,Type_L,0.23274295
+H37262,Type_L,-0.78786284
+M22857,Type_L,-0.60447633
+L52886,Type_L,0.08893837
+L51250,Type_L,0.15948968
+L55406,Type_L,0.24190818
+L49413,Type_L,0.5459964
+L51371,Type_L,0.2869904
+L56944,Type_L,0.20711863
+L50781,Type_L,0.13164544
+M19213,Type_L,-0.09501995
+M16276,Type_L,-1.0080225
+L49211,Type_L,0.13284092
+M20856,Type_L,-1.0438585
+M18387,Type_L,-0.27946046
+L53307,Type_L,0.031788535
+L52156,Type_L,0.4730313
+L51487,Type_L,0.081466146
+M20859,Type_L,-0.42124653
+L51813,Type_L,0.14106137
+L50038,Type_L,0.60458124
+M24356,Type_L,-1.6750958
+M15740,Type_L,-0.27321047
+L51560,Type_L,0.27929997
+L52380,Type_L,0.14758353
+L52085,Type_L,0.14808615
+M17708,Type_L,-2.1335793
+L51534,Type_L,0.017245684
+M18453,Type_L,-0.2656623
+L54717,Type_L,0.17768985
+L48964,Type_L,0.56791925
+L52999,Type_L,0.17738219
+L47436,Type_L,0.1774437
+L49013,Type_L,0.3531283
+M22863,Type_L,-0.3754151
+L55208,Type_L,0.12223639
+M16367,Type_L,-2.9708762
+H30537,Type_L,-0.31783855
+M18247,Type_L,-0.41492105
+L49514,Type_L,0.25281078
+L55751,Type_L,0.31607416
+L56624,Type_L,0.31057352
+L53119,Type_L,0.11133883
+L51124,Type_L,0.24786478
+L50179,Type_L,0.0006343117
+L52487,Type_L,0.06103261
+L52013,Type_L,0.080194846
+L55204,Type_L,0.12844455
+M18716,Type_L,-2.345656
+M16540,Type_L,-0.3847047
+L52031,Type_L,0.13048612
+L55190,Type_L,0.28621617
+H38909,Type_L,-0.82836264
+M19080,Type_L,-0.32263282
+L50536,Type_L,0.81735283
+M22547,Type_L,-0.42301685
+M19063,Type_L,-0.44654462
+L54191,Type_L,0.4069668
+L52580,Type_L,0.12507716
+L48721,Type_L,0.46844897
+L51826,Type_L,0.13299635
+M22881,Type_L,-0.50993776
+L51391,Type_L,0.17390206
+M21996,Type_L,-0.16182946
+L51203,Type_L,0.22617775
+H32906,Type_L,-0.36133787
+L51824,Type_L,0.1175926
+L51023,Type_L,0.17280927
+L48025,Type_L,0.14274493
+L51811,Type_L,0.10387429
+L47585,Type_L,0.6494082
+L51290,Type_L,0.0061327275
+M16616,Type_L,-2.152523
+M21318,Type_L,-0.2775499
+L52668,Type_L,0.32344675
+H35402,Type_L,-3.3463385
+L56345,Type_L,0.15195031
+L49195,Type_L,0.1574785
+L54373,Type_L,0.13105467
+M23329,Type_L,-0.54644644
+L53501,Type_L,0.07147518
+L48430,Type_L,0.12470693
+L53852,Type_L,0.16701718
+M18096,Type_L,-0.11353341
+L53333,Type_L,0.28722012
+L48598,Type_L,0.23803133
+M21785,Type_L,-2.7929308
+L52242,Type_L,0.35075563
+L47941,Type_L,0.07167676
+M22284,Type_L,-0.5635249
+M22143,Type_L,-0.7709254
+M20088,Type_L,-0.35557067
+M21478,Type_L,-0.17932159
+M17018,Type_L,-0.8867597
+M19509,Type_L,-0.4872238
+L48027,Type_L,0.4795906
+L52119,Type_L,-0.07085539
+L51293,Type_L,0.38423464
+M19066,Type_L,-0.25482082
+L50748,Type_L,0.08148227
+H33443,Type_L,-0.4648284
+L51823,Type_M,0.06812368
+L51642,Type_M,-0.013447532
+L51909,Type_M,-0.010302307
+L51563,Type_M,0.08139801
+L54689,Type_M,-0.02569
+L51822,Type_M,0.09117121
+L51597,Type_M,-0.032301757
+L51601,Type_M,-0.03298932
+L51034,Type_M,-0.03194817
+H33894,Type_M,0.009700994
+L54773,Type_M,-0.026876366
+L48515,Type_M,0.28024518
+L51681,Type_M,0.015501251
+M20254,Type_M,-0.26757112
+L51628,Type_M,-0.033575483
+L48676,Type_M,0.007020604
+L51123,Type_M,-0.03861712
+H35323,Type_M,0.008377365
+L56839,Type_M,0.04856093
+L51621,Type_M,-0.03399168
+L51675,Type_M,-0.010982916
+L51615,Type_M,-0.028339624
+L51716,Type_M,-0.024708498
+M19269,Type_M,-0.16141102
+L48341,Type_M,0.01822807
+L51655,Type_M,-0.009268379
+L49941,Type_M,0.022268161
+L49778,Type_M,-0.026853912
+M15984,Type_M,-0.0992397
+L51580,Type_M,-0.01467726
+L57154,Type_M,-0.04058411
+M15876,Type_M,-0.101234265
+L52100,Type_M,-0.052790206
+L47429,Type_M,0.12726043
+L47249,Type_M,-0.0005509701
+L47428,Type_M,0.15898524
+L51690,Type_M,-0.03229147
+L51251,Type_M,-0.051625874
+L56673,Type_M,0.14116408
+M23167,Type_M,-0.08942237
+L47340,Type_M,0.032889653
+L53435,Type_M,0.108493395
+M19393,Type_M,-0.10303164
+L53677,Type_M,-0.008318639
+M19279,Type_M,0.87249184
+L51585,Type_M,-0.01125434
+M19416,Type_M,-0.15144104
+L56844,Type_M,0.23723964
+L51738,Type_M,-0.012785815
+L55578,Type_M,-0.25428215
+L51831,Type_M,-0.031687558
+L55617,Type_M,0.01890921
+L51724,Type_M,0.021795655
+L51750,Type_M,-0.018658534
+L48775,Type_M,0.17896183
+M19249,Type_M,-0.052801106
+M18795,Type_M,-0.036370132
+M19387,Type_M,-0.12204354
+L51550,Type_M,0.03521819
+L52399,Type_M,-0.023191303
+L51434,Type_M,-0.041331295
+L51928,Type_M,-0.024676766
+L51780,Type_M,-0.039543718
+M19478,Type_M,-0.064575635
+L48106,Type_M,0.15740947
+M19587,Type_M,-0.08218964
+L51841,Type_M,-0.028419273
+M19287,Type_M,-0.11773046
+L51939,Type_M,-0.08034197
+L51450,Type_M,-0.036582805
+L52241,Type_M,-0.031974968
+L55372,Type_M,-0.0123860035
+L53258,Type_M,0.032981258
+L53705,Type_M,-0.03255905
+M19529,Type_M,-0.01781798
+M19143,Type_M,-0.04766203
+L48571,Type_M,-0.24216357
+L56594,Type_M,0.17575473
+L47783,Type_M,-0.020936241
+L54347,Type_M,0.039794955
+L56264,Type_M,-0.028011767
+H37528,Type_M,-0.56969434
+M15119,Type_M,-0.06685641
+L51586,Type_M,-0.020207964
+L56355,Type_M,-0.017021665
+M19857,Type_M,0.97316897
+L52332,Type_M,-0.4626072
+L54266,Type_M,-0.35633308
+M19704,Type_M,-0.03865773
+L51759,Type_M,-0.028354237
+M19461,Type_M,-0.064874224
+H34312,Type_M,-0.008212346
+L51362,Type_M,-0.026164688
+L51800,Type_M,-0.041204028
+L51791,Type_M,-0.040890448
+L52670,Type_M,-0.04031207
+L51260,Type_M,-0.026497602
+M19221,Type_M,0.03191211
+L51801,Type_M,-0.039934266
+M23105,Type_M,-0.09221975
+M19202,Type_M,-0.03663206
+L54263,Type_M,0.04026283
+L49624,Type_M,-0.03663927
+L51898,Type_M,-0.020181172
+L51776,Type_M,-0.029672267
+L49305,Type_M,-0.032693867
+L49511,Type_M,0.13194431
+M19622,Type_M,0.97491133
+L47926,Type_M,0.057285167
+M19033,Type_M,-0.07548652
+L51935,Type_M,-0.025266675
+L48969,Type_M,-0.025250645
+L51919,Type_M,-0.025127016
+H32414,Type_M,-0.05132084
+L47507,Type_M,0.11995392
+H32274,Type_M,0.16103908
+L51261,Type_M,-0.026200913
+M19597,Type_M,-0.04063789
+M19309,Type_M,-0.11133883
+L47643,Type_M,-0.27731845
+L53428,Type_M,0.0015659176
+M20194,Type_M,1.0130494
+M23442,Type_M,-0.082391396
+M19525,Type_M,-0.1710766
+H34175,Type_M,-0.043265253
+L48342,Type_M,0.060268503
+H33979,Type_M,0.008946902
+L51228,Type_M,-0.44382104
+M23706,Type_M,-0.3266534
+L47348,Type_M,-0.05520794
+M19013,Type_M,-0.2241438
+L51903,Type_M,-0.048263054
+M20475,Type_M,0.00975209
+L55106,Type_M,-0.009811646
+L54936,Type_M,-0.010308656
+L57002,Type_M,0.026775591
+L49674,Type_M,0.170094
+M19251,Type_M,-0.16838661
+L48988,Type_M,-0.22949722
+L51365,Type_M,-0.03579718
+M19030,Type_M,-0.0820963
+L53358,Type_M,-0.052455667
+L51427,Type_M,-0.034094594
+H33769,Type_M,-0.0010802702
+L52116,Type_M,-0.045734126
+L51213,Type_M,-0.12038592
+L52016,Type_M,-0.056322534
+L56834,Type_M,0.1411539
+L55375,Type_M,0.1648505
+L51344,Type_M,-0.018141467
+L54857,Type_M,0.028419364
+L57010,Type_M,0.16305688
+L49479,Type_M,-0.07908556
+L50940,Type_M,-0.043313235
+H33243,Type_M,-0.055188946
+L49885,Type_M,-0.038533006
+M21659,Type_M,0.9273977
+L56847,Type_M,0.23814571
+L50708,Type_M,0.03784865
+H34813,Type_M,0.06580607
+M18674,Type_M,-0.048515312
+L51364,Type_M,-0.026052162
+L51482,Type_M,-0.37152252
+L51299,Type_M,0.0011011141
+L48770,Type_M,0.09972095
+L50084,Type_M,-0.45132822
+L51508,Type_M,0.012819009
+M23874,Type_M,-0.5615777
+L51310,Type_M,0.010478749
+L51359,Type_M,-0.03412579
+M19011,Type_M,-0.087511934
+L51276,Type_M,-0.036190867
+L52042,Type_M,-0.05634337
+M23058,Type_M,-1.5050837
+M20261,Type_M,-0.54099065
+L54716,Type_M,-0.39609498
+L50446,Type_M,0.1442917
+L50864,Type_M,0.012562552
+L51948,Type_M,-0.030005611
+L48265,Type_M,0.07489334
+H33492,Type_M,0.006753534
+L51411,Type_M,-0.017615924
+L47230,Type_M,-0.24957468
+L52164,Type_M,0.0027601335
+L48599,Type_M,0.18766353
+L51911,Type_M,-0.02392984
+L56196,Type_M,0.1209903
+M20858,Type_M,-1.0678166
+H33665,Type_M,-0.027265683
+L48763,Type_M,0.011024354
+L52914,Type_M,0.0031753143
+L51429,Type_M,-0.020665184
+L54939,Type_M,-0.036689263
+L51267,Type_M,-0.03569235
+L51320,Type_M,-0.03484468
+M22424,Type_M,-0.027893223
+L47422,Type_M,0.061205126
+L52020,Type_M,-0.0019452714
+L48514,Type_M,0.2772035
+L52011,Type_M,-0.036173165
+L51465,Type_M,0.049443666
+M18980,Type_M,-0.22453305
+L50530,Type_M,0.038131095
+L51882,Type_M,-0.00089658995
+L51462,Type_M,-0.03156683
+L51210,Type_M,-0.40391845
+L50205,Type_M,0.119878694
+L51950,Type_M,-0.07518742
+L52571,Type_M,0.07424368
+M18884,Type_M,-0.21314809
+L48324,Type_M,-0.023871453
+L47765,Type_M,-0.22100638
+M19580,Type_M,0.066234
+L50668,Type_M,-0.029479906
+L50973,Type_M,-0.028016964
+L51825,Type_M,-0.11444322
+L48854,Type_M,0.060072124
+M16184,Type_M,-0.27036512
+L48705,Type_M,-0.21052583
+M21538,Type_M,-0.109061725
+M15067,Type_M,0.041768882
+L51503,Type_M,0.021283166
+H30623,Type_M,-0.3695309
+L51473,Type_M,0.08821961
+L50199,Type_M,0.16465887
+L55784,Type_M,0.1426012
+L51318,Type_M,0.013728701
+L51298,Type_M,0.016443668
+L50776,Type_M,-0.0033647602
+L51337,Type_M,-0.016746042
+M19238,Type_M,-0.56806654
+L51459,Type_M,-0.018624706
+M18727,Type_M,0.78384006
+M18317,Type_M,0.908033
+L50549,Type_M,-0.4110674
+H39353,Type_M,-0.40173337
+L53339,Type_M,-0.020478051
+L49513,Type_M,0.14654118
+H32875,Type_M,0.010938962
+L47622,Type_M,-0.05213345
+L50967,Type_M,-0.018242823
+L50989,Type_M,-0.008894302
+H34462,Type_M,-0.051323112
+L54849,Type_M,-0.049015563
+L53682,Type_M,-0.40466404
+L54112,Type_M,-0.08634051
+L54170,Type_M,-0.4431111
+M18981,Type_M,-0.18523309
+M19492,Type_M,-0.2827187
+L47341,Type_M,0.13106239
+L56843,Type_M,0.24125111
+M21400,Type_M,-0.07743658
+M18666,Type_M,0.0057273563
+L54261,Type_M,0.10423637
+L53204,Type_M,-0.06563519
+H35932,Type_M,-0.03436538
+L49761,Type_M,0.00877554
+L51335,Type_M,-0.012562757
+L48859,Type_M,-0.015367089
+L54167,Type_M,-0.44276935
+L51994,Type_M,-0.003161765
+M18654,Type_M,-0.121745236
+L47560,Type_M,-0.29002184
+L51046,Type_M,-0.03444618
+M19118,Type_M,-0.0018937308
+L49255,Type_M,0.027044298
+L49682,Type_M,0.2271733
+L51908,Type_M,-0.07822872
+L48347,Type_M,0.15455438
+L55006,Type_M,-0.02782197
+L54104,Type_M,0.051880803
+L54460,Type_M,-0.025999121
+L53345,Type_M,0.07293494
+H30814,Type_M,-0.05761222
+L51396,Type_M,-0.021498691
+L51405,Type_M,-0.035617016
+L48186,Type_M,0.07904593
+M17739,Type_M,-0.08966048
+L51506,Type_M,0.026955245
+M17026,Type_M,-0.09325995
+L48927,Type_M,-0.23994656
+L56793,Type_M,-0.028880306
+L51212,Type_M,0.13989362
+L51910,Type_M,-0.04285451
+L53853,Type_M,0.1040539
+L51297,Type_M,0.027525205
+M19113,Type_M,-0.09487557
+M20385,Type_M,-0.005662957
+M22451,Type_M,-0.4803041
+L54749,Type_M,-0.067822024
+L52773,Type_M,-0.073869385
+L48275,Type_M,-0.21929696
+M17286,Type_M,-0.07650924
+L47255,Type_M,0.10249396
+L52450,Type_M,0.00056645856
+L55776,Type_M,0.11694333
+H33006,Type_M,-0.0008890254
+L50676,Type_M,-0.061316308
+M18976,Type_M,-0.19676355
+L55542,Type_M,-0.0157723
+H37262,Type_M,-0.09291411
+M22857,Type_M,1.0187869
+L52886,Type_M,-0.054892
+L51250,Type_M,-0.026098594
+L55406,Type_M,-0.021821413
+L49413,Type_M,-0.32125118
+L51371,Type_M,-0.04807876
+L56944,Type_M,0.023703454
+L50781,Type_M,0.0059624333
+M19213,Type_M,0.0035567675
+M16276,Type_M,0.29550314
+L49211,Type_M,-0.06286971
+M20856,Type_M,-1.1678298
+M18387,Type_M,-0.3020072
+L53307,Type_M,-0.03044445
+L52156,Type_M,-0.010955113
+L51487,Type_M,0.022588793
+M20859,Type_M,-0.046831984
+L51813,Type_M,-0.008871285
+L50038,Type_M,0.17579834
+M24356,Type_M,-1.8146456
+M15740,Type_M,-0.0992397
+L51560,Type_M,0.08769696
+L52380,Type_M,-0.06597818
+L52085,Type_M,-0.025398925
+M17708,Type_M,-0.5581582
+L51534,Type_M,-0.04442835
+M18453,Type_M,-0.3120565
+L54717,Type_M,-0.024265151
+L48964,Type_M,-0.27905566
+L52999,Type_M,0.027438147
+L47436,Type_M,-0.05401377
+L49013,Type_M,0.001599598
+M22863,Type_M,-0.25653356
+L55208,Type_M,0.12599978
+M16367,Type_M,-1.45995
+H30537,Type_M,-0.056772146
+M18247,Type_M,-0.3583782
+L49514,Type_M,0.10934157
+L55751,Type_M,-0.2878471
+L56624,Type_M,-0.29903656
+L53119,Type_M,-0.040401895
+L51124,Type_M,0.014506815
+L50179,Type_M,-0.059179705
+L52487,Type_M,-0.03652839
+L52013,Type_M,-0.082621016
+L55204,Type_M,-0.0041498924
+M18716,Type_M,-0.22129607
+M16540,Type_M,-0.4734184
+L52031,Type_M,-0.032709643
+L55190,Type_M,-0.10856766
+H38909,Type_M,0.16227713
+M19080,Type_M,-0.3154212
+L50536,Type_M,0.053580116
+M22547,Type_M,0.7408002
+M19063,Type_M,0.2656854
+L54191,Type_M,-0.3747682
+L52580,Type_M,0.058932565
+L48721,Type_M,-0.21203631
+L51826,Type_M,0.07507196
+M22881,Type_M,-0.2607908
+L51391,Type_M,-0.020633042
+M21996,Type_M,-0.010693738
+L51203,Type_M,-0.024120545
+H32906,Type_M,-0.069740966
+L51824,Type_M,0.089621946
+L51023,Type_M,-0.026882768
+L48025,Type_M,0.11020805
+L51811,Type_M,-0.005912252
+L47585,Type_M,0.03758696
+L51290,Type_M,-0.026846208
+M16616,Type_M,-0.48349002
+M21318,Type_M,-0.3340406
+L52668,Type_M,-0.0069484217
+H35402,Type_M,0.066545196
+L56345,Type_M,-0.07797459
+L49195,Type_M,0.007903788
+L54373,Type_M,0.00892975
+M23329,Type_M,-0.3664397
+L53501,Type_M,0.00064049824
+L48430,Type_M,0.09382704
+L53852,Type_M,0.08387501
+M18096,Type_M,-0.0025845864
+L53333,Type_M,0.0010057136
+L48598,Type_M,0.12857838
+M21785,Type_M,-1.200141
+L52242,Type_M,-0.01085545
+L47941,Type_M,0.066243425
+M22284,Type_M,0.2211251
+M22143,Type_M,-0.15424827
+M20088,Type_M,-0.0373608
+M21478,Type_M,-0.034662962
+M17018,Type_M,-0.79703724
+M19509,Type_M,-0.026167031
+L48027,Type_M,-0.15606779
+L52119,Type_M,0.0075069377
+L51293,Type_M,0.027800683
+M19066,Type_M,0.095805585
+L50748,Type_M,0.023923445
+H33443,Type_M,-0.1768088
